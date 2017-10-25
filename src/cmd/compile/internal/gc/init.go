@@ -20,7 +20,7 @@ func renameinit() *types.Sym {
 	return s
 }
 
-// anyinit reports whether there any interesting init statements.
+// anyinit reports whether there are any interesting init statements.
 func anyinit(n []*Node) bool {
 	for _, ln := range n {
 		switch ln.Op {

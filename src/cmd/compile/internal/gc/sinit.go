@@ -771,7 +771,7 @@ func fixedlit(ctxt initContext, kind initKind, n *Node, var_ *Node, init *Nodes)
 }
 
 func slicelit(ctxt initContext, n *Node, var_ *Node, init *Nodes) {
-	// make an array type corresponding the number of elements we have
+	// make an array type corresponding to the number of elements we have
 	t := types.NewArray(n.Type.Elem(), n.Right.Int64())
 	dowidth(t)
 
