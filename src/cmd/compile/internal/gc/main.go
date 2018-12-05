@@ -676,7 +676,7 @@ func Main(archInit func(*Arch)) {
 
 	if nsavederrors+nerrors == 0 {
 		println("----------------------------------------------------")
-		println(outfile)
+		println("file:", flag.Arg(0)[len("/Users/whit537/workbench/go/src/github.com/golang/go/"):])
 		fninit(xtop)
 	}
 
