@@ -252,7 +252,7 @@ func initfix(l []*Node) []*Node {
 	initplans = nil
 
 	logarr := func(varname string, foo []*Node) {
-		print(varname, ": ")
+		print(" ")
 		for i, n := range foo {
 			if n.Left == nil {
 				print(fmt.Sprintf("nil n.Left on %v", n))
