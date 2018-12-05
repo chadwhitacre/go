@@ -250,6 +250,23 @@ func initfix(l []*Node) []*Node {
 	initreorder(l, &lout)
 	lineno = lno
 	initplans = nil
+
+	logarr := func(varname string, foo []*Node) {
+		print(varname, ": ")
+		for i, n := range foo {
+			if n.Left == nil {
+				print(fmt.Sprintf("nil n.Left on %v", n))
+			} else {
+				print(fmt.Sprintf("%s (%v %v)", n.Left.Sym.Name, n.Op, n.Right.Op))
+			}
+			if i < len(foo)-1 {
+				print(", ")
+			}
+		}
+		println()
+	}
+	logarr("lout", lout)
+
 	return lout
 }
 

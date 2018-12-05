@@ -675,6 +675,8 @@ func Main(archInit func(*Arch)) {
 	timings.AddEvent(fcount, "funcs")
 
 	if nsavederrors+nerrors == 0 {
+		println("----------------------------------------------------")
+		println(outfile)
 		fninit(xtop)
 	}
 

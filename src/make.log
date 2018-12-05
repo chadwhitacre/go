@@ -1,0 +1,2362 @@
+Building Go cmd/dist using /usr/local/Cellar/go/1.10.1/libexec.
+Building Go toolchain1 using /usr/local/Cellar/go/1.10.1/libexec.
+Building Go bootstrap cmd/go (go_bootstrap) using Go toolchain1.
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/runtime/internal/atomic/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/runtime/internal/sys/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/internal/cpu/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/runtime/internal/math/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/internal/bytealg/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/runtime/_go_.a
+lout: inf (= CALLFUNC), uint16Type (= DOTPTR), uint32Type (= DOTPTR), uint64Type (= DOTPTR), stringType (= DOTPTR), sliceType (= DOTPTR), chansendpc (= CALLFUNC), chanrecvpc (= CALLFUNC)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/internal/race/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/errors/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/encoding/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/math/bits/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/unicode/utf8/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/cmd/go/internal/semver/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/unicode/utf16/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/sync/atomic/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/internal/testlog/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/sync/_go_.a
+lout: expunged (= CONVNOP)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/internal/singleflight/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/io/_go_.a
+lout: ErrShortWrite (= CALLFUNC), ErrShortBuffer (= CALLFUNC), EOF (= CALLFUNC), ErrUnexpectedEOF (= CALLFUNC), ErrNoProgress (= CALLFUNC), errWhence (= CALLFUNC), errOffset (= CALLFUNC), ErrClosedPipe (= CALLFUNC)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/unicode/_go_.a
+lout: Categories (= MAPLIT), Scripts (= MAPLIT), Properties (= MAPLIT), FoldCategory (= MAPLIT), FoldScript (= MAPLIT)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/math/_go_.a
+lout: useFMA (= &&)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/cmd/go/internal/web/_go_.a
+lout: errHTTP (= CALLFUNC)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/hash/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/bytes/_go_.a
+lout: ErrTooLarge (= CALLFUNC), errNegativeRead (= CALLFUNC)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/hash/adler32/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/math/rand/_go_.a
+lout: globalRand (= CALLFUNC)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/hash/crc32/_go_.a
+lout: IEEETable (= CALLFUNC)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/strings/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/cmd/go/internal/par/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/strconv/_go_.a
+lout: ErrRange (= CALLFUNC), ErrSyntax (= CALLFUNC)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/crypto/_go_.a
+lout: hashes (= MAKESLICE)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/bufio/_go_.a
+lout: ErrInvalidUnreadByte (= CALLFUNC), ErrInvalidUnreadRune (= CALLFUNC), ErrBufferFull (= CALLFUNC), ErrNegativeCount (= CALLFUNC), errNegativeRead (= CALLFUNC), errNegativeWrite (= CALLFUNC), ErrTooLong (= CALLFUNC), ErrNegativeAdvance (= CALLFUNC), ErrAdvanceTooFar (= CALLFUNC), ErrFinalToken (= CALLFUNC)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/path/_go_.a
+lout: ErrBadPattern (= CALLFUNC)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/crypto/sha1/_go_.a
+lout: useAVX2 (= &&)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/crypto/sha256/_go_.a
+lout: useAVX2 (= &&)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/syscall/_go_.a
+lout: envs (= CALLFUNC), minRoutingSockaddrLen (= CALLFUNC), statictmp_47 (= MAKEMAP)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/internal/syscall/unix/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/time/_go_.a
+lout: atoiError (= CALLFUNC), errBad (= CALLFUNC), errLeadingInt (= CALLFUNC), unitMap (= MAPLIT), startNano (= -), errLocation (= CALLFUNC), badData (= CALLFUNC), statictmp_21 (= +)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/cmd/go/internal/modinfo/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/internal/poll/_go_.a
+lout: ErrNetClosing (= CALLFUNC), ErrFileClosing (= CALLFUNC), ErrNoDeadline (= CALLFUNC)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/reflect/_go_.a
+lout: uint8Type (= DOTTYPE)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/os/_go_.a
+lout: ErrInvalid (= CALLFUNC), ErrPermission (= CALLFUNC), ErrExist (= CALLFUNC), ErrNotExist (= CALLFUNC), ErrClosed (= CALLFUNC), ErrNoDeadline (= NAME), errFinished (= CALLFUNC), nil n.Left on initCwd, initCwdErr = Getwd(), Stdin (= CALLFUNC), Stdout (= CALLFUNC), Stderr (= CALLFUNC)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/os/signal/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/sort/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/container/heap/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/internal/fmtsort/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/encoding/binary/_go_.a
+lout: overflow (= CALLFUNC)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/cmd/internal/sys/_go_.a
+lout: statictmp_1 (= NAME), statictmp_3 (= NAME), statictmp_5 (= NAME), statictmp_7 (= NAME), statictmp_9 (= NAME), statictmp_11 (= NAME), statictmp_13 (= NAME), statictmp_15 (= NAME), statictmp_17 (= NAME), statictmp_19 (= NAME), statictmp_21 (= NAME), statictmp_23 (= NAME), statictmp_25 (= NAME)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/path/filepath/_go_.a
+lout: ErrBadPattern (= CALLFUNC), SkipDir (= CALLFUNC)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/io/ioutil/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/encoding/base64/_go_.a
+lout: StdEncoding (= CALLFUNC), URLEncoding (= CALLFUNC), RawStdEncoding (= CALLMETH), RawURLEncoding (= CALLMETH)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/regexp/syntax/_go_.a
+lout: perlGroup (= MAPLIT), posixGroup (= MAPLIT)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/fmt/_go_.a
+lout: complexError (= CALLFUNC), boolError (= CALLFUNC)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/cmd/go/internal/str/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/log/_go_.a
+lout: std (= CALLFUNC)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/compress/flate/_go_.a
+lout: fixedLiteralEncoding (= CALLFUNC), fixedOffsetEncoding (= CALLFUNC)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/regexp/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/encoding/hex/_go_.a
+lout: ErrLength (= CALLFUNC)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/text/template/parse/_go_.a
+lout: key (= MAPLIT)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/cmd/go/internal/module/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/net/url/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/debug/dwarf/_go_.a
+lout: _Attr_map (= MAPLIT), attrIsExprloc (= MAPLIT), attrPtrClass (= MAPLIT), knownOpcodeLengths (= MAPLIT), ErrUnknownPC (= CALLFUNC)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/go/token/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/context/_go_.a
+lout: Canceled (= CALLFUNC), background (= new), todo (= new), closedchan (= MAKECHAN)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/flag/_go_.a
+lout: ErrHelp (= CALLFUNC), errParse (= CALLFUNC), errRange (= CALLFUNC), CommandLine (= CALLFUNC)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/compress/zlib/_go_.a
+lout: ErrChecksum (= CALLFUNC), ErrDictionary (= CALLFUNC), ErrHeader (= CALLFUNC)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/cmd/go/internal/cache/_go_.a
+lout: errMissing (= CALLFUNC), hashSalt (= STR2BYTES)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/archive/zip/_go_.a
+lout: ErrFormat (= CALLFUNC), ErrAlgorithm (= CALLFUNC), ErrChecksum (= CALLFUNC), errLongName (= CALLFUNC), errLongExtra (= CALLFUNC)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/encoding/json/_go_.a
+lout: textUnmarshalerType (= CALLINTER), numberType (= CALLFUNC), marshalerType (= CALLINTER), textMarshalerType (= CALLINTER), float32Encoder (= CALLPART), float64Encoder (= CALLPART)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/cmd/internal/xcoff/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/encoding/xml/_go_.a
+lout: marshalerType (= CALLINTER), marshalerAttrType (= CALLINTER), textMarshalerType (= CALLINTER), attrType (= CALLFUNC), unmarshalerType (= CALLINTER), unmarshalerAttrType (= CALLINTER), textUnmarshalerType (= CALLINTER), nameType (= CALLFUNC), errRawToken (= CALLFUNC), entity (= MAPLIT), htmlEntity (= MAPLIT), HTMLEntity (= NAME)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/go/scanner/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/cmd/internal/objabi/_go_.a
+lout: GOROOT (= CALLFUNC), GOARCH (= CALLFUNC), GOOS (= CALLFUNC), GO386 (= CALLFUNC), GOARM (= CALLFUNC), GOMIPS (= CALLFUNC), GOMIPS64 (= CALLFUNC), defaultExpstring (= CALLFUNC)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/cmd/go/internal/modfile/_go_.a
+lout: GoVersionRE (= CALLFUNC)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/os/exec/_go_.a
+lout: ErrNotFound (= CALLFUNC)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/cmd/go/internal/dirhash/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/cmd/internal/test2json/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/debug/macho/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/internal/goroot/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/text/template/_go_.a
+lout: maxExecDepth (= CALLFUNC), missingVal (= CALLFUNC), errorType (= CALLINTER), fmtStringerType (= CALLINTER), reflectValueType (= CALLINTER), errBadComparisonType (= CALLFUNC), errNoComparison (= CALLFUNC), errBadComparison (= CALLFUNC), builtins (= MAPLIT), builtinFuncs (= CALLFUNC)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/debug/elf/_go_.a
+lout: ErrNoSymbols (= CALLFUNC)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/go/ast/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/cmd/internal/buildid/_go_.a
+lout: errBuildIDToolchain (= CALLFUNC), errBuildIDMalformed (= CALLFUNC), errBuildIDUnknown (= CALLFUNC)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/go/doc/_go_.a
+lout: inTest (= &&), matchRx (= CALLFUNC), nonAlphaNumRx (= CALLFUNC), outputPrefix (= CALLFUNC), underscore (= CALLFUNC), noteMarkerRx (= CALLFUNC), noteCommentRx (= CALLFUNC), predeclaredTypes (= MAPLIT), predeclaredFuncs (= MAPLIT), predeclaredConstants (= MAPLIT)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/go/parser/_go_.a
+lout: unresolved (= new), stmtStart (= MAPLIT), declStart (= MAPLIT), exprEnd (= MAPLIT)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/go/build/_go_.a
+lout: cgoEnabled (= MAPLIT), Default (= CALLFUNC), errNoModules (= CALLFUNC), knownOS (= MAKEMAP), knownArch (= MAKEMAP), ToolDir (= CALLFUNC), errSyntax (= CALLFUNC), errNUL (= CALLFUNC)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/cmd/go/internal/cfg/_go_.a
+lout: BuildContext (= CALLFUNC), BuildP (= CALLFUNC), Goarch (= DOT), Goos (= DOT), Gopath (= CALLFUNC), GOROOT (= CALLFUNC), GOBIN (= CALLFUNC), GOROOTbin (= CALLFUNC), GOROOTpkg (= CALLFUNC), GOROOTsrc (= CALLFUNC), GOROOT_FINAL (= CALLFUNC), GOARM (= CALLFUNC), GO386 (= NAME), GOMIPS (= NAME), GOMIPS64 (= NAME), OSArchSupportsCgo (= MAPLIT)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/cmd/go/internal/imports/_go_.a
+lout: KnownOS (= MAKEMAP), KnownArch (= MAKEMAP), errSyntax (= CALLFUNC), errNUL (= CALLFUNC), ErrNoGo (= CALLFUNC)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/cmd/go/internal/base/_go_.a
+lout: knownFlag (= MAKEMAP), Cwd (= CALLFUNC), Interrupted (= MAKECHAN), statictmp_1 (= NAME), ToolIsWindows (= ==), ToolDir (= NAME)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/cmd/go/internal/version/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/cmd/go/internal/cmdflag/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/cmd/go/internal/help/_go_.a
+lout: documentationTemplate (= +)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/cmd/go/internal/doc/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/cmd/go/internal/tool/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/cmd/go/internal/mvs/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/cmd/go/internal/search/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/cmd/go/internal/modfetch/codehost/_go_.a
+lout: bashQuoter (= CALLFUNC), vcsCmds (= MAPLIT)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/cmd/go/internal/load/_go_.a
+lout: packageCache (= MAPLIT), isDirCache (= MAPLIT), goModPathCache (= MAKEMAP), cgoExclude (= MAPLIT), cgoSyscallExclude (= MAPLIT), foldPath (= MAKEMAP), cmdCache (= MAPLIT), testFileSet (= CALLFUNC), testmainTmpl (= CALLFUNC)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/cmd/go/internal/work/_go_.a
+lout: runtimeVersion (= CALLFUNC), errPrintedOutput (= CALLFUNC), cgoLine (= CALLFUNC), cgoTypeSigRe (= CALLFUNC), origCC (= CALLFUNC), origCXX (= CALLFUNC), cgoRe (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/cmd/go/internal/run/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/cmd/go/internal/get/_go_.a
+lout: statictmp_6 (= +), getD (= CALLMETH), getF (= CALLMETH), getT (= CALLMETH), getU (= CALLMETH), getFix (= CALLMETH), downloadCache (= MAPLIT), downloadRootCache (= MAPLIT), defaultSecureScheme (= MAPLIT), scpSyntaxRe (= CALLFUNC), statictmp_34 (= +), httpPrefixRE (= CALLFUNC), errUnknownSite (= CALLFUNC), fetchCache (= MAPLIT)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/cmd/go/internal/modfetch/_go_.a
+lout: errNotCached (= CALLFUNC), proxyURL (= CALLFUNC), pseudoVersionRE (= CALLFUNC)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/cmd/go/internal/modconv/_go_.a
+lout: Converters (= MAPLIT)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/cmd/go/internal/modload/_go_.a
+lout: nil n.Left on infoStart, _ = hex.DecodeString("3077af0c9274080241e1c107e6d618e6"), nil n.Left on infoEnd, _ = hex.DecodeString("f932433186182072008242104116d8f2"), MustUseModules (= CALLFUNC), gitOriginRE (= CALLFUNC), importCommentRE (= CALLFUNC), anyTags (= MAPLIT), errMissing (= CALLFUNC), ErrRequire (= CALLFUNC)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/cmd/go/internal/fmtcmd/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/cmd/go/internal/envcmd/_go_.a
+lout: envJson (= CALLMETH)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/cmd/go/internal/list/_go_.a
+lout: listCompiled (= CALLMETH), listDeps (= CALLMETH), listE (= CALLMETH), listExport (= CALLMETH), listFmt (= CALLMETH), listFind (= CALLMETH), listJson (= CALLMETH), listM (= CALLMETH), listU (= CALLMETH), listTest (= CALLMETH), listVersions (= CALLMETH)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/cmd/go/internal/vet/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/cmd/go/internal/modget/_go_.a
+lout: statictmp_1 (= +), getD (= CALLMETH), getF (= CALLMETH), getFix (= CALLMETH), getM (= CALLMETH), getT (= CALLMETH)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/cmd/go/internal/fix/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/cmd/go/internal/generate/_go_.a
+lout: stop (= CALLFUNC)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/cmd/go/internal/clean/_go_.a
+lout: cleaned (= MAPLIT), cleanDir (= MAPLIT), cleanFile (= MAPLIT), cleanExt (= MAPLIT)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/cmd/go/internal/bug/_go_.a
+lout: 
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/cmd/go/internal/modcmd/_go_.a
+lout: downloadJSON (= CALLMETH), editFmt (= CALLMETH), editGo (= CALLMETH), editJSON (= CALLMETH), editPrint (= CALLMETH), editModule (= CALLMETH), copiedMetadata (= MAKEMAP), whyM (= CALLMETH), whyVendor (= CALLMETH)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/cmd/go/internal/test/_go_.a
+lout: errBadTestInputs (= CALLFUNC), errFileTooNew (= CALLFUNC), statictmp_23 (= new), statictmp_31 (= new), statictmp_40 (= new)
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-tool-dist-532003624/cmd/go/_go_.a
+lout: 
+Building Go toolchain2 using go_bootstrap and Go toolchain1.
+# errors
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b004/_pkg_.a
+lout: 
+# internal/race
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b010/_pkg_.a
+lout: 
+# runtime/internal/sys
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b014/_pkg_.a
+lout: 
+# runtime/internal/atomic
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b012/_pkg_.a
+lout: 
+# runtime/internal/math
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b013/_pkg_.a
+lout: 
+# internal/cpu
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b006/_pkg_.a
+lout: 
+# sync/atomic
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b015/_pkg_.a
+lout: 
+# unicode/utf8
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b017/_pkg_.a
+lout: 
+# math/bits
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b028/_pkg_.a
+lout: 
+# internal/bytealg
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b005/_pkg_.a
+lout: 
+# internal/testlog
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b035/_pkg_.a
+lout: 
+# encoding
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b094/_pkg_.a
+lout: 
+# unicode/utf16
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b096/_pkg_.a
+lout: 
+# unicode
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b016/_pkg_.a
+lout: Categories (= MAPLIT), Scripts (= MAPLIT), Properties (= MAPLIT), FoldCategory (= MAPLIT), FoldScript (= MAPLIT)
+# math
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b026/_pkg_.a
+lout: useFMA (= &&)
+# strconv
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b027/_pkg_.a
+lout: ErrRange (= CALLFUNC), ErrSyntax (= CALLFUNC)
+# runtime
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b011/_pkg_.a
+lout: inf (= CALLFUNC), uint16Type (= DOTPTR), uint32Type (= DOTPTR), uint64Type (= DOTPTR), stringType (= DOTPTR), sliceType (= DOTPTR), chansendpc (= CALLFUNC), chanrecvpc (= CALLFUNC)
+# sync
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b009/_pkg_.a
+lout: expunged (= CONVNOP)
+# math/rand
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b089/_pkg_.a
+lout: globalRand (= CALLFUNC)
+# io
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b008/_pkg_.a
+lout: ErrShortWrite (= CALLFUNC), ErrShortBuffer (= CALLFUNC), EOF (= CALLFUNC), ErrUnexpectedEOF (= CALLFUNC), ErrNoProgress (= CALLFUNC), errWhence (= CALLFUNC), errOffset (= CALLFUNC), ErrClosedPipe (= CALLFUNC)
+# bytes
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b003/_pkg_.a
+lout: ErrTooLarge (= CALLFUNC), errNegativeRead (= CALLFUNC)
+# strings
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b036/_pkg_.a
+lout: 
+# bufio
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b002/_pkg_.a
+lout: ErrInvalidUnreadByte (= CALLFUNC), ErrInvalidUnreadRune (= CALLFUNC), ErrBufferFull (= CALLFUNC), ErrNegativeCount (= CALLFUNC), errNegativeRead (= CALLFUNC), errNegativeWrite (= CALLFUNC), ErrTooLong (= CALLFUNC), ErrNegativeAdvance (= CALLFUNC), ErrAdvanceTooFar (= CALLFUNC), ErrFinalToken (= CALLFUNC)
+# path
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b059/_pkg_.a
+lout: ErrBadPattern (= CALLFUNC)
+# hash
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b062/_pkg_.a
+lout: 
+# text/tabwriter
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b074/_pkg_.a
+lout: 
+# crypto
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b061/_pkg_.a
+lout: hashes (= MAKESLICE)
+# hash/adler32
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b066/_pkg_.a
+lout: 
+# syscall
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b032/_pkg_.a
+lout: envs (= CALLFUNC), minRoutingSockaddrLen (= CALLFUNC), statictmp_47 (= MAKEMAP)
+# crypto/sha1
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b085/_pkg_.a
+lout: useAVX2 (= &&)
+# internal/syscall/unix
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b034/_pkg_.a
+lout: 
+# html
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b087/_pkg_.a
+lout: htmlEscaper (= CALLFUNC)
+# hash/crc32
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b106/_pkg_.a
+lout: IEEETable (= CALLFUNC)
+# crypto/sha256
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b092/_pkg_.a
+lout: useAVX2 (= &&)
+# time
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b033/_pkg_.a
+lout: atoiError (= CALLFUNC), errBad (= CALLFUNC), errLeadingInt (= CALLFUNC), unitMap (= MAPLIT), startNano (= -), errLocation (= CALLFUNC), badData (= CALLFUNC), statictmp_21 (= +)
+# reflect
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b025/_pkg_.a
+lout: uint8Type (= DOTTYPE)
+# internal/poll
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b031/_pkg_.a
+lout: ErrNetClosing (= CALLFUNC), ErrFileClosing (= CALLFUNC), ErrNoDeadline (= CALLFUNC)
+# sort
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b029/_pkg_.a
+lout: 
+# internal/fmtsort
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b024/_pkg_.a
+lout: 
+# encoding/binary
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b042/_pkg_.a
+lout: overflow (= CALLFUNC)
+# container/heap
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b084/_pkg_.a
+lout: 
+# cmd/internal/sys
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b041/_pkg_.a
+lout: statictmp_1 (= NAME), statictmp_3 (= NAME), statictmp_5 (= NAME), statictmp_7 (= NAME), statictmp_9 (= NAME), statictmp_11 (= NAME), statictmp_13 (= NAME), statictmp_15 (= NAME), statictmp_17 (= NAME), statictmp_19 (= NAME), statictmp_21 (= NAME), statictmp_23 (= NAME), statictmp_25 (= NAME)
+# crypto/md5
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b060/_pkg_.a
+lout: 
+# encoding/base64
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b095/_pkg_.a
+lout: StdEncoding (= CALLFUNC), URLEncoding (= CALLFUNC), RawStdEncoding (= CALLMETH), RawURLEncoding (= CALLMETH)
+# os
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b030/_pkg_.a
+lout: ErrInvalid (= CALLFUNC), ErrPermission (= CALLFUNC), ErrExist (= CALLFUNC), ErrNotExist (= CALLFUNC), ErrClosed (= CALLFUNC), ErrNoDeadline (= NAME), errFinished (= CALLFUNC), nil n.Left on initCwd, initCwdErr = Getwd(), Stdin (= CALLFUNC), Stdout (= CALLFUNC), Stderr (= CALLFUNC)
+# runtime/debug
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b103/_pkg_.a
+lout: 
+# path/filepath
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b038/_pkg_.a
+lout: ErrBadPattern (= CALLFUNC), SkipDir (= CALLFUNC)
+# io/ioutil
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b037/_pkg_.a
+lout: 
+# regexp/syntax
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b078/_pkg_.a
+lout: perlGroup (= MAPLIT), posixGroup (= MAPLIT)
+# fmt
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b023/_pkg_.a
+lout: complexError (= CALLFUNC), boolError (= CALLFUNC)
+# log
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b039/_pkg_.a
+lout: std (= CALLFUNC)
+# cmd/internal/src
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b040/_pkg_.a
+lout: 
+# text/scanner
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b053/_pkg_.a
+lout: tokenString (= MAPLIT)
+# cmd/internal/edit
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b056/_pkg_.a
+lout: 
+# cmd/internal/bio
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b054/_pkg_.a
+lout: 
+# flag
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b022/_pkg_.a
+lout: ErrHelp (= CALLFUNC), errParse (= CALLFUNC), errRange (= CALLFUNC), CommandLine (= CALLFUNC)
+# regexp
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b077/_pkg_.a
+lout: 
+# cmd/internal/objabi
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b021/_pkg_.a
+lout: GOROOT (= CALLFUNC), GOARCH (= CALLFUNC), GOOS (= CALLFUNC), GO386 (= CALLFUNC), GOARM (= CALLFUNC), GOMIPS (= CALLFUNC), GOMIPS64 (= CALLFUNC), defaultExpstring (= CALLFUNC)
+# go/token
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b071/_pkg_.a
+lout: 
+# cmd/asm/internal/flags
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b051/_pkg_.a
+lout: Debug (= CALLFUNC), OutputFile (= CALLFUNC), PrintOut (= CALLFUNC), TrimPath (= CALLFUNC), Shared (= CALLFUNC), Dynlink (= CALLFUNC), AllErrors (= CALLFUNC), SymABIs (= CALLFUNC)
+# cmd/internal/dwarf
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b020/_pkg_.a
+lout: 
+# compress/flate
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b065/_pkg_.a
+lout: fixedLiteralEncoding (= CALLFUNC), fixedOffsetEncoding (= CALLFUNC)
+# cmd/asm/internal/lex
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b052/_pkg_.a
+lout: 
+# compress/zlib
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b064/_pkg_.a
+lout: ErrChecksum (= CALLFUNC), ErrDictionary (= CALLFUNC), ErrHeader (= CALLFUNC)
+# go/scanner
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b070/_pkg_.a
+lout: 
+# context
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b076/_pkg_.a
+lout: Canceled (= CALLFUNC), background (= new), todo (= new), closedchan (= MAKECHAN)
+# os/exec
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b075/_pkg_.a
+lout: ErrNotFound (= CALLFUNC)
+# encoding/hex
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b086/_pkg_.a
+lout: ErrLength (= CALLFUNC)
+# debug/dwarf
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b058/_pkg_.a
+lout: _Attr_map (= MAPLIT), attrIsExprloc (= MAPLIT), attrPtrClass (= MAPLIT), knownOpcodeLengths (= MAPLIT), ErrUnknownPC (= CALLFUNC)
+# cmd/internal/xcoff
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b057/_pkg_.a
+lout: 
+# cmd/internal/obj
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b019/_pkg_.a
+lout: 
+# go/ast
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b069/_pkg_.a
+lout: 
+# debug/elf
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b063/_pkg_.a
+lout: ErrNoSymbols (= CALLFUNC)
+# cmd/internal/obj/arm
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b043/_pkg_.a
+lout: ARMDWARFRegisters (= MAPLIT), unaryDst (= MAPLIT), Linkarm (= NAME), Linkarm (= NAME), Linkarm (= NAME)
+# cmd/internal/obj/mips
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b045/_pkg_.a
+lout: MIPSDWARFRegisters (= MAPLIT), Linkmips64 (= NAME), Linkmips64 (= NAME), Linkmips64le (= NAME), Linkmips64le (= NAME), Linkmips (= NAME), Linkmips (= NAME), Linkmipsle (= NAME), Linkmipsle (= NAME)
+# math/big
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b088/_pkg_.a
+lout: support_adx (= &&), three (= CALLFUNC)
+# cmd/internal/obj/wasm
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b048/_pkg_.a
+lout: Register (= MAPLIT), unaryDst (= MAPLIT), Linkwasm (= NAME), Linkwasm (= NAME)
+# cmd/internal/obj/arm64
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b044/_pkg_.a
+lout: ARM64DWARFRegisters (= MAPLIT), unaryDst (= MAPLIT), Linkarm64 (= NAME), Linkarm64 (= NAME), Linkarm64 (= NAME)
+# cmd/internal/obj/s390x
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b047/_pkg_.a
+lout: S390XDWARFRegisters (= MAPLIT), unaryDst (= MAPLIT), Links390x (= NAME), Links390x (= NAME), Links390x (= NAME)
+# debug/pe
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b068/_pkg_.a
+lout: sizeofOptionalHeader32 (= CONV), sizeofOptionalHeader64 (= CONV)
+# debug/macho
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b067/_pkg_.a
+lout: 
+# cmd/internal/obj/ppc64
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b046/_pkg_.a
+lout: PPC64DWARFRegisters (= MAPLIT), Linkppc64 (= NAME), Linkppc64 (= NAME), Linkppc64le (= NAME), Linkppc64le (= NAME)
+# cmd/compile/internal/types
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b083/_pkg_.a
+lout: pkgMap (= MAKEMAP), statictmp_1 (= MAKEMAP), internedStrings (= MAPLIT), Idealint (= CALLFUNC), Idealrune (= CALLFUNC), Idealfloat (= CALLFUNC), Idealcomplex (= CALLFUNC), TypeInvalid (= CALLFUNC), TypeMem (= CALLFUNC), TypeFlags (= CALLFUNC), TypeVoid (= CALLFUNC), TypeInt128 (= CALLFUNC)
+# go/parser
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b072/_pkg_.a
+lout: unresolved (= new), stmtStart (= MAPLIT), declStart (= MAPLIT), exprEnd (= MAPLIT)
+# cmd/internal/gcprog
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b091/_pkg_.a
+lout: 
+# go/printer
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b073/_pkg_.a
+lout: 
+# cmd/internal/obj/x86
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b049/_pkg_.a
+lout: AMD64DWARFRegisters (= MAPLIT), X86DWARFRegisters (= MAPLIT), isAndroid (= ==), unaryDst (= MAPLIT), Linkamd64 (= NAME), Linkamd64 (= NAME), Linkamd64 (= NAME), Linkamd64p32 (= NAME), Linkamd64p32 (= NAME), Linkamd64p32 (= NAME), Link386 (= NAME), Link386 (= NAME), Link386 (= NAME)
+# cmd/asm/internal/arch
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b018/_pkg_.a
+lout: armLS (= MAPLIT), armSCOND (= MAPLIT), armJump (= MAPLIT), arm64LS (= MAPLIT), arm64Jump (= MAPLIT)
+# encoding/json
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b093/_pkg_.a
+lout: textUnmarshalerType (= CALLINTER), numberType (= CALLFUNC), marshalerType (= CALLINTER), textMarshalerType (= CALLINTER), float32Encoder (= CALLPART), float64Encoder (= CALLPART)
+# cmd/asm/internal/asm
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b050/_pkg_.a
+lout: EOF (= CALLFUNC)
+# cmd/asm
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b001/_pkg_.a
+lout: 
+# cmd/compile/internal/syntax
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b090/_pkg_.a
+lout: invalid (= new)
+# net/url
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b100/_pkg_.a
+lout: 
+# text/template/parse
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b101/_pkg_.a
+lout: key (= MAPLIT)
+# cmd/cgo
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b055/_pkg_.a
+lout: debugDefine (= CALLFUNC), debugGcc (= CALLFUNC), nameToC (= MAPLIT), typedef (= MAKEMAP), goIdent (= MAKEMAP), unionWithPointer (= MAKEMAP), dwarfToName (= MAPLIT), jniTypes (= MAPLIT), ptrSizeMap (= MAPLIT), intSizeMap (= MAPLIT), fset (= CALLFUNC), dynobj (= CALLFUNC), dynout (= CALLFUNC), dynpackage (= CALLFUNC), dynlinker (= CALLFUNC), godefs (= CALLFUNC), srcDir (= CALLFUNC), objDir (= CALLFUNC), importPath (= CALLFUNC), exportHeader (= CALLFUNC), gccgo (= CALLFUNC), gccgoprefix (= CALLFUNC), gccgopkgpath (= CALLFUNC), importRuntimeCgo (= CALLFUNC), importSyscall (= CALLFUNC), isBuiltin (= MAPLIT), goTypes (= MAPLIT), builtinDefs (= MAPLIT)
+# text/template
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b099/_pkg_.a
+lout: maxExecDepth (= CALLFUNC), missingVal (= CALLFUNC), errorType (= CALLINTER), fmtStringerType (= CALLINTER), reflectValueType (= CALLINTER), errBadComparisonType (= CALLFUNC), errNoComparison (= CALLFUNC), errBadComparison (= CALLFUNC), builtins (= MAPLIT), builtinFuncs (= CALLFUNC)
+# internal/goroot
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b102/_pkg_.a
+lout: 
+# compress/gzip
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b105/_pkg_.a
+lout: ErrChecksum (= CALLFUNC), ErrHeader (= CALLFUNC), le (= NAME)
+# go/doc
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b098/_pkg_.a
+lout: inTest (= &&), matchRx (= CALLFUNC), nonAlphaNumRx (= CALLFUNC), outputPrefix (= CALLFUNC), underscore (= CALLFUNC), noteMarkerRx (= CALLFUNC), noteCommentRx (= CALLFUNC), predeclaredTypes (= MAPLIT), predeclaredFuncs (= MAPLIT), predeclaredConstants (= MAPLIT)
+# runtime/pprof
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b104/_pkg_.a
+lout: errBadELF (= CALLFUNC), errNoBuildID (= CALLFUNC)
+# runtime/trace
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b107/_pkg_.a
+lout: 
+# cmd/link/internal/sym
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b120/_pkg_.a
+lout: RelROMap (= MAPLIT)
+# cmd/link/internal/loadelf
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b119/_pkg_.a
+lout: 
+# go/build
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b097/_pkg_.a
+lout: cgoEnabled (= MAPLIT), Default (= CALLFUNC), errNoModules (= CALLFUNC), knownOS (= MAKEMAP), knownArch (= MAKEMAP), ToolDir (= CALLFUNC), errSyntax (= CALLFUNC), errNUL (= CALLFUNC)
+# cmd/link/internal/loadmacho
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b121/_pkg_.a
+lout: 
+# cmd/link/internal/loadxcoff
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b123/_pkg_.a
+lout: 
+# cmd/link/internal/loadpe
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b122/_pkg_.a
+lout: 
+# cmd/link/internal/objfile
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b124/_pkg_.a
+lout: 
+# cmd/link/internal/ld
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b118/_pkg_.a
+lout: strdata (= MAKEMAP), seenlib (= MAKEMAP), flagBuildid (= CALLFUNC), flagOutfile (= CALLFUNC), flagPluginPath (= CALLFUNC), flagInstallSuffix (= CALLFUNC), flagDumpDep (= CALLFUNC), flagRace (= CALLFUNC), flagMsan (= CALLFUNC), flagFieldTrack (= CALLFUNC), flagLibGCC (= CALLFUNC), flagTmpdir (= CALLFUNC), flagExtld (= CALLFUNC), flagExtldflags (= CALLFUNC), flagExtar (= CALLFUNC), flagA (= CALLFUNC), FlagC (= CALLFUNC), FlagD (= CALLFUNC), flagF (= CALLFUNC), flagG (= CALLFUNC), flagH (= CALLFUNC), flagN (= CALLFUNC), FlagS (= CALLFUNC), flagU (= CALLFUNC), FlagW (= CALLFUNC), flagInterpreter (= CALLFUNC), FlagDebugTramp (= CALLFUNC), FlagRound (= CALLFUNC), FlagTextAddr (= CALLFUNC), FlagDataAddr (= CALLFUNC), flagEntrySymbol (= CALLFUNC), cpuprofile (= CALLFUNC), memprofile (= CALLFUNC), memprofilerate (= CALLFUNC), start (= CALLFUNC), currDwscnoff (= MAKEMAP)
+# cmd/link/internal/arm64
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b126/_pkg_.a
+lout: 
+# cmd/link/internal/amd64
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b117/_pkg_.a
+lout: 
+# cmd/link/internal/arm
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b125/_pkg_.a
+lout: 
+# cmd/link/internal/mips64
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b128/_pkg_.a
+lout: 
+# cmd/link/internal/mips
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b127/_pkg_.a
+lout: 
+# cmd/link/internal/wasm
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b131/_pkg_.a
+lout: wasmFuncTypes (= MAPLIT), nameRegexp (= CALLFUNC)
+# cmd/link/internal/ppc64
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b129/_pkg_.a
+lout: 
+# cmd/link/internal/s390x
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b130/_pkg_.a
+lout: 
+# cmd/link/internal/x86
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b132/_pkg_.a
+lout: 
+# cmd/link
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b116/_pkg_.a
+lout: 
+# cmd/compile/internal/ssa
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b082/_pkg_.a
+lout: opMax (= MAPLIT), opUMax (= MAPLIT), opMin (= MAPLIT), domainRelationTable (= MAPLIT), ctzNonZeroOp (= MAPLIT), mostNegativeDividend (= MAPLIT), opCmpLoadMap (= MAPLIT), passes (= ==)
+# cmd/compile/internal/gc
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b081/_pkg_.a
+lout: numImport (= MAKEMAP), sharedProgArray (= new), declImporter (= MAPLIT), inlineImporter (= MAPLIT), importMap (= MAPLIT), goVersionRE (= CALLFUNC), allowedStdPragmas (= MAPLIT), prealloc (= MAPLIT), signatset (= MAKEMAP), typepkg (= CALLFUNC), inittemps (= MAKEMAP), opToSSA (= MAPLIT), fpConvOpToSSA (= MAPLIT), fpConvOpToSSA32 (= MAPLIT), uint64fpConvOpToSSA (= MAPLIT), shiftOpToSSA (= MAPLIT), dotlist (= MAKESLICE), dotField (= MAPLIT), mapaccess1 (= CALLFUNC), mapaccess2 (= CALLFUNC), mapassign (= CALLFUNC), mapdelete (= CALLFUNC)
+# cmd/compile/internal/mips
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b110/_pkg_.a
+lout: blockJump (= MAPLIT)
+# cmd/compile/internal/arm64
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b109/_pkg_.a
+lout: darwin (= ==), condBits (= MAPLIT), blockJump (= MAPLIT)
+# cmd/compile/internal/arm
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b108/_pkg_.a
+lout: condBits (= MAPLIT), blockJump (= MAPLIT)
+# cmd/compile/internal/mips64
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b111/_pkg_.a
+lout: blockJump (= MAPLIT)
+# cmd/compile/internal/amd64
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b080/_pkg_.a
+lout: isPlan9 (= ==)
+# cmd/compile/internal/ppc64
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b112/_pkg_.a
+lout: iselOps (= MAPLIT)
+# cmd/compile/internal/wasm
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b114/_pkg_.a
+lout: 
+# cmd/compile/internal/s390x
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b113/_pkg_.a
+lout: 
+# cmd/compile/internal/x86
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b115/_pkg_.a
+lout: 
+# cmd/compile
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build232332328/b079/_pkg_.a
+lout: archInits (= MAPLIT)
+Building Go toolchain3 using go_bootstrap and Go toolchain2.
+# internal/race
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b010/_pkg_.a
+lout: 
+# errors
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b004/_pkg_.a
+lout: 
+# runtime/internal/sys
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b014/_pkg_.a
+lout: 
+# runtime/internal/atomic
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b012/_pkg_.a
+lout: 
+# internal/cpu
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b006/_pkg_.a
+lout: 
+# sync/atomic
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b015/_pkg_.a
+lout: 
+# runtime/internal/math
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b013/_pkg_.a
+lout: 
+# unicode/utf8
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b017/_pkg_.a
+lout: 
+# math/bits
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b028/_pkg_.a
+lout: 
+# internal/bytealg
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b005/_pkg_.a
+lout: 
+# internal/testlog
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b035/_pkg_.a
+lout: 
+# encoding
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b094/_pkg_.a
+lout: 
+# unicode/utf16
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b096/_pkg_.a
+lout: 
+# unicode
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b016/_pkg_.a
+lout: Categories (= MAPLIT), Scripts (= MAPLIT), Properties (= MAPLIT), FoldCategory (= MAPLIT), FoldScript (= MAPLIT)
+# math
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b026/_pkg_.a
+lout: useFMA (= &&)
+# strconv
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b027/_pkg_.a
+lout: ErrRange (= CALLFUNC), ErrSyntax (= CALLFUNC)
+# runtime
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b011/_pkg_.a
+lout: inf (= CALLFUNC), uint16Type (= DOTPTR), uint32Type (= DOTPTR), uint64Type (= DOTPTR), stringType (= DOTPTR), sliceType (= DOTPTR), chansendpc (= CALLFUNC), chanrecvpc (= CALLFUNC)
+# sync
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b009/_pkg_.a
+lout: expunged (= CONVNOP)
+# math/rand
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b089/_pkg_.a
+lout: globalRand (= CALLFUNC)
+# io
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b008/_pkg_.a
+lout: ErrShortWrite (= CALLFUNC), ErrShortBuffer (= CALLFUNC), EOF (= CALLFUNC), ErrUnexpectedEOF (= CALLFUNC), ErrNoProgress (= CALLFUNC), errWhence (= CALLFUNC), errOffset (= CALLFUNC), ErrClosedPipe (= CALLFUNC)
+# bytes
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b003/_pkg_.a
+lout: ErrTooLarge (= CALLFUNC), errNegativeRead (= CALLFUNC)
+# bufio
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b002/_pkg_.a
+lout: ErrInvalidUnreadByte (= CALLFUNC), ErrInvalidUnreadRune (= CALLFUNC), ErrBufferFull (= CALLFUNC), ErrNegativeCount (= CALLFUNC), errNegativeRead (= CALLFUNC), errNegativeWrite (= CALLFUNC), ErrTooLong (= CALLFUNC), ErrNegativeAdvance (= CALLFUNC), ErrAdvanceTooFar (= CALLFUNC), ErrFinalToken (= CALLFUNC)
+# strings
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b036/_pkg_.a
+lout: 
+# hash
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b062/_pkg_.a
+lout: 
+# crypto
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b061/_pkg_.a
+lout: hashes (= MAKESLICE)
+# path
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b059/_pkg_.a
+lout: ErrBadPattern (= CALLFUNC)
+# hash/adler32
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b066/_pkg_.a
+lout: 
+# text/tabwriter
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b074/_pkg_.a
+lout: 
+# crypto/sha1
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b085/_pkg_.a
+lout: useAVX2 (= &&)
+# html
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b087/_pkg_.a
+lout: htmlEscaper (= CALLFUNC)
+# syscall
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b032/_pkg_.a
+lout: envs (= CALLFUNC), minRoutingSockaddrLen (= CALLFUNC), statictmp_47 (= MAKEMAP)
+# crypto/sha256
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b092/_pkg_.a
+lout: useAVX2 (= &&)
+# hash/crc32
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b106/_pkg_.a
+lout: IEEETable (= CALLFUNC)
+# internal/syscall/unix
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b034/_pkg_.a
+lout: 
+# time
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b033/_pkg_.a
+lout: atoiError (= CALLFUNC), errBad (= CALLFUNC), errLeadingInt (= CALLFUNC), unitMap (= MAPLIT), startNano (= -), errLocation (= CALLFUNC), badData (= CALLFUNC), statictmp_21 (= +)
+# internal/poll
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b031/_pkg_.a
+lout: ErrNetClosing (= CALLFUNC), ErrFileClosing (= CALLFUNC), ErrNoDeadline (= CALLFUNC)
+# reflect
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b025/_pkg_.a
+lout: uint8Type (= DOTTYPE)
+# os
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b030/_pkg_.a
+lout: ErrInvalid (= CALLFUNC), ErrPermission (= CALLFUNC), ErrExist (= CALLFUNC), ErrNotExist (= CALLFUNC), ErrClosed (= CALLFUNC), ErrNoDeadline (= NAME), errFinished (= CALLFUNC), nil n.Left on initCwd, initCwdErr = Getwd(), Stdin (= CALLFUNC), Stdout (= CALLFUNC), Stderr (= CALLFUNC)
+# sort
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b029/_pkg_.a
+lout: 
+# encoding/binary
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b042/_pkg_.a
+lout: overflow (= CALLFUNC)
+# cmd/internal/sys
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b041/_pkg_.a
+lout: statictmp_1 (= NAME), statictmp_3 (= NAME), statictmp_5 (= NAME), statictmp_7 (= NAME), statictmp_9 (= NAME), statictmp_11 (= NAME), statictmp_13 (= NAME), statictmp_15 (= NAME), statictmp_17 (= NAME), statictmp_19 (= NAME), statictmp_21 (= NAME), statictmp_23 (= NAME), statictmp_25 (= NAME)
+# internal/fmtsort
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b024/_pkg_.a
+lout: 
+# path/filepath
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b038/_pkg_.a
+lout: ErrBadPattern (= CALLFUNC), SkipDir (= CALLFUNC)
+# crypto/md5
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b060/_pkg_.a
+lout: 
+# container/heap
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b084/_pkg_.a
+lout: 
+# io/ioutil
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b037/_pkg_.a
+lout: 
+# encoding/base64
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b095/_pkg_.a
+lout: StdEncoding (= CALLFUNC), URLEncoding (= CALLFUNC), RawStdEncoding (= CALLMETH), RawURLEncoding (= CALLMETH)
+# runtime/debug
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b103/_pkg_.a
+lout: 
+# regexp/syntax
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b078/_pkg_.a
+lout: perlGroup (= MAPLIT), posixGroup (= MAPLIT)
+# fmt
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b023/_pkg_.a
+lout: complexError (= CALLFUNC), boolError (= CALLFUNC)
+# log
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b039/_pkg_.a
+lout: std (= CALLFUNC)
+# cmd/internal/src
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b040/_pkg_.a
+lout: 
+# text/scanner
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b053/_pkg_.a
+lout: tokenString (= MAPLIT)
+# cmd/internal/edit
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b056/_pkg_.a
+lout: 
+# cmd/internal/bio
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b054/_pkg_.a
+lout: 
+# flag
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b022/_pkg_.a
+lout: ErrHelp (= CALLFUNC), errParse (= CALLFUNC), errRange (= CALLFUNC), CommandLine (= CALLFUNC)
+# cmd/internal/objabi
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b021/_pkg_.a
+lout: GOROOT (= CALLFUNC), GOARCH (= CALLFUNC), GOOS (= CALLFUNC), GO386 (= CALLFUNC), GOARM (= CALLFUNC), GOMIPS (= CALLFUNC), GOMIPS64 (= CALLFUNC), defaultExpstring (= CALLFUNC)
+# cmd/internal/dwarf
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b020/_pkg_.a
+lout: 
+# regexp
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b077/_pkg_.a
+lout: 
+# cmd/asm/internal/flags
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b051/_pkg_.a
+lout: Debug (= CALLFUNC), OutputFile (= CALLFUNC), PrintOut (= CALLFUNC), TrimPath (= CALLFUNC), Shared (= CALLFUNC), Dynlink (= CALLFUNC), AllErrors (= CALLFUNC), SymABIs (= CALLFUNC)
+# compress/flate
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b065/_pkg_.a
+lout: fixedLiteralEncoding (= CALLFUNC), fixedOffsetEncoding (= CALLFUNC)
+# compress/zlib
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b064/_pkg_.a
+lout: ErrChecksum (= CALLFUNC), ErrDictionary (= CALLFUNC), ErrHeader (= CALLFUNC)
+# cmd/asm/internal/lex
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b052/_pkg_.a
+lout: 
+# go/token
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b071/_pkg_.a
+lout: 
+# context
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b076/_pkg_.a
+lout: Canceled (= CALLFUNC), background (= new), todo (= new), closedchan (= MAKECHAN)
+# debug/dwarf
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b058/_pkg_.a
+lout: _Attr_map (= MAPLIT), attrIsExprloc (= MAPLIT), attrPtrClass (= MAPLIT), knownOpcodeLengths (= MAPLIT), ErrUnknownPC (= CALLFUNC)
+# go/scanner
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b070/_pkg_.a
+lout: 
+# cmd/internal/xcoff
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b057/_pkg_.a
+lout: 
+# os/exec
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b075/_pkg_.a
+lout: ErrNotFound (= CALLFUNC)
+# debug/pe
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b068/_pkg_.a
+lout: sizeofOptionalHeader32 (= CONV), sizeofOptionalHeader64 (= CONV)
+# cmd/internal/obj
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b019/_pkg_.a
+lout: 
+# debug/macho
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b067/_pkg_.a
+lout: 
+# debug/elf
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b063/_pkg_.a
+lout: ErrNoSymbols (= CALLFUNC)
+# go/ast
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b069/_pkg_.a
+lout: 
+# cmd/internal/obj/arm
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b043/_pkg_.a
+lout: ARMDWARFRegisters (= MAPLIT), unaryDst (= MAPLIT), Linkarm (= NAME), Linkarm (= NAME), Linkarm (= NAME)
+# cmd/internal/obj/mips
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b045/_pkg_.a
+lout: MIPSDWARFRegisters (= MAPLIT), Linkmips64 (= NAME), Linkmips64 (= NAME), Linkmips64le (= NAME), Linkmips64le (= NAME), Linkmips (= NAME), Linkmips (= NAME), Linkmipsle (= NAME), Linkmipsle (= NAME)
+# cmd/internal/obj/wasm
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b048/_pkg_.a
+lout: Register (= MAPLIT), unaryDst (= MAPLIT), Linkwasm (= NAME), Linkwasm (= NAME)
+# cmd/internal/obj/arm64
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b044/_pkg_.a
+lout: ARM64DWARFRegisters (= MAPLIT), unaryDst (= MAPLIT), Linkarm64 (= NAME), Linkarm64 (= NAME), Linkarm64 (= NAME)
+# cmd/internal/obj/s390x
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b047/_pkg_.a
+lout: S390XDWARFRegisters (= MAPLIT), unaryDst (= MAPLIT), Links390x (= NAME), Links390x (= NAME), Links390x (= NAME)
+# go/parser
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b072/_pkg_.a
+lout: unresolved (= new), stmtStart (= MAPLIT), declStart (= MAPLIT), exprEnd (= MAPLIT)
+# cmd/internal/obj/ppc64
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b046/_pkg_.a
+lout: PPC64DWARFRegisters (= MAPLIT), Linkppc64 (= NAME), Linkppc64 (= NAME), Linkppc64le (= NAME), Linkppc64le (= NAME)
+# encoding/hex
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b086/_pkg_.a
+lout: ErrLength (= CALLFUNC)
+# go/printer
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b073/_pkg_.a
+lout: 
+# cmd/compile/internal/types
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b083/_pkg_.a
+lout: pkgMap (= MAKEMAP), statictmp_1 (= MAKEMAP), internedStrings (= MAPLIT), Idealint (= CALLFUNC), Idealrune (= CALLFUNC), Idealfloat (= CALLFUNC), Idealcomplex (= CALLFUNC), TypeInvalid (= CALLFUNC), TypeMem (= CALLFUNC), TypeFlags (= CALLFUNC), TypeVoid (= CALLFUNC), TypeInt128 (= CALLFUNC)
+# cmd/internal/obj/x86
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b049/_pkg_.a
+lout: AMD64DWARFRegisters (= MAPLIT), X86DWARFRegisters (= MAPLIT), isAndroid (= ==), unaryDst (= MAPLIT), Linkamd64 (= NAME), Linkamd64 (= NAME), Linkamd64 (= NAME), Linkamd64p32 (= NAME), Linkamd64p32 (= NAME), Linkamd64p32 (= NAME), Link386 (= NAME), Link386 (= NAME), Link386 (= NAME)
+# cmd/asm/internal/arch
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b018/_pkg_.a
+lout: armLS (= MAPLIT), armSCOND (= MAPLIT), armJump (= MAPLIT), arm64LS (= MAPLIT), arm64Jump (= MAPLIT)
+# cmd/asm/internal/asm
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b050/_pkg_.a
+lout: EOF (= CALLFUNC)
+# cmd/asm
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b001/_pkg_.a
+lout: 
+# math/big
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b088/_pkg_.a
+lout: support_adx (= &&), three (= CALLFUNC)
+# cmd/compile/internal/syntax
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b090/_pkg_.a
+lout: invalid (= new)
+# cmd/internal/gcprog
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b091/_pkg_.a
+lout: 
+# cmd/cgo
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b055/_pkg_.a
+lout: debugDefine (= CALLFUNC), debugGcc (= CALLFUNC), nameToC (= MAPLIT), typedef (= MAKEMAP), goIdent (= MAKEMAP), unionWithPointer (= MAKEMAP), dwarfToName (= MAPLIT), jniTypes (= MAPLIT), ptrSizeMap (= MAPLIT), intSizeMap (= MAPLIT), fset (= CALLFUNC), dynobj (= CALLFUNC), dynout (= CALLFUNC), dynpackage (= CALLFUNC), dynlinker (= CALLFUNC), godefs (= CALLFUNC), srcDir (= CALLFUNC), objDir (= CALLFUNC), importPath (= CALLFUNC), exportHeader (= CALLFUNC), gccgo (= CALLFUNC), gccgoprefix (= CALLFUNC), gccgopkgpath (= CALLFUNC), importRuntimeCgo (= CALLFUNC), importSyscall (= CALLFUNC), isBuiltin (= MAPLIT), goTypes (= MAPLIT), builtinDefs (= MAPLIT)
+# encoding/json
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b093/_pkg_.a
+lout: textUnmarshalerType (= CALLINTER), numberType (= CALLFUNC), marshalerType (= CALLINTER), textMarshalerType (= CALLINTER), float32Encoder (= CALLPART), float64Encoder (= CALLPART)
+# net/url
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b100/_pkg_.a
+lout: 
+# internal/goroot
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b102/_pkg_.a
+lout: 
+# compress/gzip
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b105/_pkg_.a
+lout: ErrChecksum (= CALLFUNC), ErrHeader (= CALLFUNC), le (= NAME)
+# runtime/pprof
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b104/_pkg_.a
+lout: errBadELF (= CALLFUNC), errNoBuildID (= CALLFUNC)
+# runtime/trace
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b107/_pkg_.a
+lout: 
+# text/template/parse
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b101/_pkg_.a
+lout: key (= MAPLIT)
+# cmd/link/internal/sym
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b120/_pkg_.a
+lout: RelROMap (= MAPLIT)
+# cmd/link/internal/loadelf
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b119/_pkg_.a
+lout: 
+# cmd/link/internal/loadmacho
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b121/_pkg_.a
+lout: 
+# text/template
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b099/_pkg_.a
+lout: maxExecDepth (= CALLFUNC), missingVal (= CALLFUNC), errorType (= CALLINTER), fmtStringerType (= CALLINTER), reflectValueType (= CALLINTER), errBadComparisonType (= CALLFUNC), errNoComparison (= CALLFUNC), errBadComparison (= CALLFUNC), builtins (= MAPLIT), builtinFuncs (= CALLFUNC)
+# cmd/link/internal/loadxcoff
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b123/_pkg_.a
+lout: 
+# cmd/link/internal/loadpe
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b122/_pkg_.a
+lout: 
+# cmd/link/internal/objfile
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b124/_pkg_.a
+lout: 
+# go/doc
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b098/_pkg_.a
+lout: inTest (= &&), matchRx (= CALLFUNC), nonAlphaNumRx (= CALLFUNC), outputPrefix (= CALLFUNC), underscore (= CALLFUNC), noteMarkerRx (= CALLFUNC), noteCommentRx (= CALLFUNC), predeclaredTypes (= MAPLIT), predeclaredFuncs (= MAPLIT), predeclaredConstants (= MAPLIT)
+# go/build
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b097/_pkg_.a
+lout: cgoEnabled (= MAPLIT), Default (= CALLFUNC), errNoModules (= CALLFUNC), knownOS (= MAKEMAP), knownArch (= MAKEMAP), ToolDir (= CALLFUNC), errSyntax (= CALLFUNC), errNUL (= CALLFUNC)
+# cmd/link/internal/ld
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b118/_pkg_.a
+lout: strdata (= MAKEMAP), seenlib (= MAKEMAP), flagBuildid (= CALLFUNC), flagOutfile (= CALLFUNC), flagPluginPath (= CALLFUNC), flagInstallSuffix (= CALLFUNC), flagDumpDep (= CALLFUNC), flagRace (= CALLFUNC), flagMsan (= CALLFUNC), flagFieldTrack (= CALLFUNC), flagLibGCC (= CALLFUNC), flagTmpdir (= CALLFUNC), flagExtld (= CALLFUNC), flagExtldflags (= CALLFUNC), flagExtar (= CALLFUNC), flagA (= CALLFUNC), FlagC (= CALLFUNC), FlagD (= CALLFUNC), flagF (= CALLFUNC), flagG (= CALLFUNC), flagH (= CALLFUNC), flagN (= CALLFUNC), FlagS (= CALLFUNC), flagU (= CALLFUNC), FlagW (= CALLFUNC), flagInterpreter (= CALLFUNC), FlagDebugTramp (= CALLFUNC), FlagRound (= CALLFUNC), FlagTextAddr (= CALLFUNC), FlagDataAddr (= CALLFUNC), flagEntrySymbol (= CALLFUNC), cpuprofile (= CALLFUNC), memprofile (= CALLFUNC), memprofilerate (= CALLFUNC), start (= CALLFUNC), currDwscnoff (= MAKEMAP)
+# cmd/link/internal/arm64
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b126/_pkg_.a
+lout: 
+# cmd/link/internal/amd64
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b117/_pkg_.a
+lout: 
+# cmd/link/internal/mips
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b127/_pkg_.a
+lout: 
+# cmd/link/internal/arm
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b125/_pkg_.a
+lout: 
+# cmd/link/internal/mips64
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b128/_pkg_.a
+lout: 
+# cmd/link/internal/wasm
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b131/_pkg_.a
+lout: wasmFuncTypes (= MAPLIT), nameRegexp (= CALLFUNC)
+# cmd/link/internal/s390x
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b130/_pkg_.a
+lout: 
+# cmd/link/internal/ppc64
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b129/_pkg_.a
+lout: 
+# cmd/link/internal/x86
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b132/_pkg_.a
+lout: 
+# cmd/link
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b116/_pkg_.a
+lout: 
+# cmd/compile/internal/ssa
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b082/_pkg_.a
+lout: opMax (= MAPLIT), opUMax (= MAPLIT), opMin (= MAPLIT), domainRelationTable (= MAPLIT), ctzNonZeroOp (= MAPLIT), mostNegativeDividend (= MAPLIT), opCmpLoadMap (= MAPLIT), passes (= ==)
+# cmd/compile/internal/gc
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b081/_pkg_.a
+lout: numImport (= MAKEMAP), sharedProgArray (= new), declImporter (= MAPLIT), inlineImporter (= MAPLIT), importMap (= MAPLIT), goVersionRE (= CALLFUNC), allowedStdPragmas (= MAPLIT), prealloc (= MAPLIT), signatset (= MAKEMAP), typepkg (= CALLFUNC), inittemps (= MAKEMAP), opToSSA (= MAPLIT), fpConvOpToSSA (= MAPLIT), fpConvOpToSSA32 (= MAPLIT), uint64fpConvOpToSSA (= MAPLIT), shiftOpToSSA (= MAPLIT), dotlist (= MAKESLICE), dotField (= MAPLIT), mapaccess1 (= CALLFUNC), mapaccess2 (= CALLFUNC), mapassign (= CALLFUNC), mapdelete (= CALLFUNC)
+# cmd/compile/internal/mips
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b110/_pkg_.a
+lout: blockJump (= MAPLIT)
+# cmd/compile/internal/arm64
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b109/_pkg_.a
+lout: darwin (= ==), condBits (= MAPLIT), blockJump (= MAPLIT)
+# cmd/compile/internal/arm
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b108/_pkg_.a
+lout: condBits (= MAPLIT), blockJump (= MAPLIT)
+# cmd/compile/internal/amd64
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b080/_pkg_.a
+lout: isPlan9 (= ==)
+# cmd/compile/internal/mips64
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b111/_pkg_.a
+lout: blockJump (= MAPLIT)
+# cmd/compile/internal/wasm
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b114/_pkg_.a
+lout: 
+# cmd/compile/internal/ppc64
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b112/_pkg_.a
+lout: iselOps (= MAPLIT)
+# cmd/compile/internal/s390x
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b113/_pkg_.a
+lout: 
+# cmd/compile/internal/x86
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b115/_pkg_.a
+lout: 
+# cmd/compile
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b079/_pkg_.a
+lout: archInits (= MAPLIT)
+Building packages and commands for darwin/amd64.
+# container/ring
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b049/_pkg_.a
+lout: 
+# container/list
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b048/_pkg_.a
+lout: 
+# crypto/internal/subtle
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b054/_pkg_.a
+lout: 
+# compress/bzip2
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b042/_pkg_.a
+lout: 
+# debug/plan9obj
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b099/_pkg_.a
+lout: 
+# cmd/internal/goobj
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b196/_pkg_.a
+lout: errCorruptArchive (= CALLFUNC), errTruncatedArchive (= CALLFUNC), errCorruptObject (= CALLFUNC), errNotObject (= CALLFUNC)
+# debug/gosym
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b096/_pkg_.a
+lout: 
+# cmd/vendor/golang.org/x/arch/ppc64/ppc64asm
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b203/_pkg_.a
+lout: errShort (= CALLFUNC), errUnknown (= CALLFUNC), revCondMap (= MAPLIT), plan9OpMap (= MAPLIT)
+# cmd/vendor/golang.org/x/arch/arm/armasm
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b201/_pkg_.a
+lout: errMode (= CALLFUNC), errShort (= CALLFUNC), errUnknown (= CALLFUNC), saveDot (= CALLFUNC)
+# archive/zip
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b036/_pkg_.a
+lout: ErrFormat (= CALLFUNC), ErrAlgorithm (= CALLFUNC), ErrChecksum (= CALLFUNC), errLongName (= CALLFUNC), errLongExtra (= CALLFUNC)
+# compress/lzw
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b044/_pkg_.a
+lout: errClosed (= CALLFUNC), errOutOfCodes (= CALLFUNC)
+# crypto/subtle
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b055/_pkg_.a
+lout: 
+# crypto/cipher
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b053/_pkg_.a
+lout: errOpen (= CALLFUNC)
+# cmd/vendor/golang.org/x/arch/x86/x86asm
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b204/_pkg_.a
+lout: ErrInvalidMode (= CALLFUNC), ErrTruncated (= CALLFUNC), ErrUnrecognized (= CALLFUNC), errInternal (= CALLFUNC), gnuOp (= MAPLIT), prefixNames (= MAPLIT), intelOp (= MAPLIT)
+# crypto/des
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b056/_pkg_.a
+lout: 
+# crypto/internal/randutil
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b058/_pkg_.a
+lout: 
+# crypto/aes
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b052/_pkg_.a
+lout: errOpen (= CALLFUNC), supportsAES (= ||), supportsGFMUL (= ||)
+# crypto/dsa
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b057/_pkg_.a
+lout: ErrInvalidPublicKey (= CALLFUNC)
+# cmd/vendor/golang.org/x/arch/arm64/arm64asm
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b202/_pkg_.a
+lout: errShort (= CALLFUNC), errUnknown (= CALLFUNC), noSuffixOpSet (= CALLFUNC)
+# crypto/sha512
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b063/_pkg_.a
+lout: useAVX2 (= &&)
+# crypto/elliptic
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b062/_pkg_.a
+lout: 
+# crypto/hmac
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b065/_pkg_.a
+lout: 
+# crypto/rand
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b067/_pkg_.a
+lout: smallPrimesProduct (= CALLMETH)
+# crypto/rc4
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b068/_pkg_.a
+lout: 
+# cmd/internal/objfile
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b195/_pkg_.a
+lout: disasms (= MAPLIT), byteOrders (= MAPLIT), validSymType (= MAPLIT)
+# encoding/asn1
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b064/_pkg_.a
+lout: bigOne (= CALLFUNC), bitStringType (= CALLFUNC), objectIdentifierType (= CALLFUNC), enumeratedType (= CALLFUNC), flagType (= CALLFUNC), timeType (= CALLFUNC), rawValueType (= CALLFUNC), rawContentsType (= CALLFUNC), bigIntType (= CALLFUNC)
+# crypto/rsa
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b069/_pkg_.a
+lout: hashPrefixes (= MAPLIT), bigZero (= CALLFUNC), bigOne (= CALLFUNC), errPublicModulus (= CALLFUNC), errPublicExponentSmall (= CALLFUNC), errPublicExponentLarge (= CALLFUNC), ErrMessageTooLong (= CALLFUNC), ErrDecryption (= CALLFUNC), ErrVerification (= CALLFUNC)
+# cmd/addr2line
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b194/_pkg_.a
+lout: 
+# crypto/ecdsa
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b061/_pkg_.a
+lout: one (= CALLMETH), errZeroParam (= CALLFUNC)
+# crypto/x509/pkix
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b074/_pkg_.a
+lout: attributeTypeNames (= MAPLIT)
+# vendor/golang_org/x/crypto/cryptobyte/asn1
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b079/_pkg_.a
+lout: 
+# encoding/pem
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b076/_pkg_.a
+lout: 
+# vendor/golang_org/x/crypto/cryptobyte
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b078/_pkg_.a
+lout: bigIntType (= CALLINTER), bigOne (= CALLFUNC)
+# vendor/golang_org/x/net/dns/dnsmessage
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b081/_pkg_.a
+lout: ErrNotStarted (= CALLFUNC), ErrSectionDone (= CALLFUNC), errBaseLen (= CALLFUNC), errCalcLen (= CALLFUNC), errReserved (= CALLFUNC), errTooManyPtr (= CALLFUNC), errInvalidPtr (= CALLFUNC), errNilResouceBody (= CALLFUNC), errResourceLen (= CALLFUNC), errSegTooLong (= CALLFUNC), errZeroSegLen (= CALLFUNC), errResTooLong (= CALLFUNC), errTooManyQuestions (= CALLFUNC), errTooManyAnswers (= CALLFUNC), errTooManyAuthorities (= CALLFUNC), errTooManyAdditionals (= CALLFUNC), errNonCanonicalName (= CALLFUNC), errStringTooLong (= CALLFUNC), errCompressedSRV (= CALLFUNC), sectionNames (= MAPLIT)
+# internal/nettrace
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b083/_pkg_.a
+lout: 
+# internal/singleflight
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b084/_pkg_.a
+lout: 
+# vendor/golang_org/x/net/route
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b082/_pkg_.a
+lout: errUnsupportedMessage (= CALLFUNC), errMessageMismatch (= CALLFUNC), errMessageTooShort (= CALLFUNC), errInvalidMessage (= CALLFUNC), errInvalidAddr (= CALLFUNC), errShortBuffer (= CALLFUNC)
+# vendor/golang_org/x/crypto/internal/chacha20
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b088/_pkg_.a
+lout: 
+# vendor/golang_org/x/crypto/poly1305
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b089/_pkg_.a
+lout: 
+# vendor/golang_org/x/crypto/curve25519
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b090/_pkg_.a
+lout: 
+# vendor/golang_org/x/crypto/chacha20poly1305
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b087/_pkg_.a
+lout: errOpen (= CALLFUNC), useASM (= DOT), useAVX2 (= &&)
+# vendor/golang_org/x/crypto/hkdf
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b091/_pkg_.a
+lout: 
+# encoding/ascii85
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b101/_pkg_.a
+lout: 
+# encoding/base32
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b102/_pkg_.a
+lout: StdEncoding (= CALLFUNC), HexEncoding (= CALLFUNC)
+# database/sql/driver
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b093/_pkg_.a
+lout: ErrSkip (= CALLFUNC), ErrBadConn (= CALLFUNC), ErrRemoveArgument (= CALLFUNC), valuerReflectType (= CALLINTER)
+# encoding/csv
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b103/_pkg_.a
+lout: ErrTrailingComma (= CALLFUNC), ErrBareQuote (= CALLFUNC), ErrQuote (= CALLFUNC), ErrFieldCount (= CALLFUNC), errInvalidDelim (= CALLFUNC)
+# runtime/cgo
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b034/_pkg_.a
+lout: 
+# database/sql
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b092/_pkg_.a
+lout: errNilPtr (= CALLFUNC), valuerReflectType (= CALLINTER), errLevelNotSupported (= CALLFUNC), drivers (= MAKEMAP), ErrNoRows (= CALLFUNC), errDBClosed (= CALLFUNC), ErrConnDone (= CALLFUNC), ErrTxDone (= CALLFUNC), errRowsClosed (= CALLFUNC), errNoRows (= CALLFUNC)
+# encoding/xml
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b107/_pkg_.a
+lout: marshalerType (= CALLINTER), marshalerAttrType (= CALLINTER), textMarshalerType (= CALLINTER), attrType (= CALLFUNC), unmarshalerType (= CALLINTER), unmarshalerAttrType (= CALLINTER), textUnmarshalerType (= CALLINTER), nameType (= CALLFUNC), errRawToken (= CALLFUNC), entity (= MAPLIT), htmlEntity (= MAPLIT), HTMLEntity (= NAME)
+# encoding/gob
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b104/_pkg_.a
+lout: errBadUint (= CALLFUNC), decArrayHelper (= MAPLIT), decSliceHelper (= MAPLIT), errBadType (= CALLFUNC), errRange (= CALLFUNC), types (= MAKEMAP), idToType (= MAKEMAP), gobEncoderInterfaceType (= CALLINTER), binaryMarshalerInterfaceType (= CALLINTER), gobDecoderInterfaceType (= CALLINTER), binaryUnmarshalerInterfaceType (= CALLINTER), tBool (= CALLFUNC), tInt (= CALLFUNC), tUint (= CALLFUNC), tFloat (= CALLFUNC), tBytes (= CALLFUNC), tString (= CALLFUNC), tComplex (= CALLFUNC), decIgnoreOpMap (= MAPLIT), emptyStructType (= CALLFUNC), errBadCount (= CALLFUNC), encArrayHelper (= MAPLIT), encSliceHelper (= MAPLIT), spaceForLength (= MAKESLICE), textMarshalerInterfaceType (= CALLINTER), textUnmarshalerInterfaceType (= CALLINTER), tInterface (= CALLFUNC), tReserved7 (= CALLFUNC), tReserved6 (= CALLFUNC), tReserved5 (= CALLFUNC), tReserved4 (= CALLFUNC), tReserved3 (= CALLFUNC), tReserved2 (= CALLFUNC), tReserved1 (= CALLFUNC), tWireType (= DOTPTR)
+# vendor/golang_org/x/text/transform
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b114/_pkg_.a
+lout: ErrShortDst (= CALLFUNC), ErrShortSrc (= CALLFUNC), ErrEndOfSpan (= CALLFUNC), errInconsistentByteCount (= CALLFUNC), errShortInternal (= CALLFUNC)
+# vendor/golang_org/x/text/unicode/bidi
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b115/_pkg_.a
+lout: trie (= CALLFUNC), controlToClass (= MAPLIT)
+# vendor/golang_org/x/text/secure/bidirule
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b113/_pkg_.a
+lout: ErrInvalid (= CALLFUNC)
+# vendor/golang_org/x/net/http2/hpack
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b119/_pkg_.a
+lout: ErrStringLength (= CALLFUNC), errNeedMore (= CALLFUNC), errVarintOverflow (= CALLFUNC), ErrInvalidHuffman (= CALLFUNC), staticTable (= CALLFUNC)
+# mime
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b120/_pkg_.a
+lout: errInvalidWord (= CALLFUNC), maxBase64Len (= CALLMETH), ErrInvalidMediaParameter (= CALLFUNC), builtinTypesLower (= MAPLIT)
+# mime/quotedprintable
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b122/_pkg_.a
+lout: 
+# net/http/internal
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b124/_pkg_.a
+lout: ErrLineTooLong (= CALLFUNC)
+# vendor/golang_org/x/text/unicode/norm
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b116/_pkg_.a
+lout: nfcSparse (= SLICEARR), nfcSparse (= SLICE), nfcData (= CALLFUNC), recompMap (= MAPLIT), nfkcSparse (= SLICEARR), nfkcSparse (= SLICE), nfkcData (= CALLFUNC), statictmp_40 (= NAME), statictmp_40 (= NAME)
+# go/constant
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b137/_pkg_.a
+lout: floatVal0 (= CALLFUNC)
+# go/format
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b138/_pkg_.a
+lout: 
+# vendor/golang_org/x/net/idna
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b112/_pkg_.a
+lout: idnaSparse (= SLICEARR), idnaSparse (= SLICE)
+# hash/crc64
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b147/_pkg_.a
+lout: 
+# hash/fnv
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b148/_pkg_.a
+lout: 
+# html/template
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b150/_pkg_.a
+lout: attrTypeMap (= MAPLIT), errorType (= CALLINTER), fmtStringerType (= CALLINTER), elementNameMap (= MAPLIT), regexpPrecederKeywords (= MAPLIT), jsonMarshalType (= CALLINTER), funcMap (= MAPLIT), predefinedEscapers (= MAPLIT), equivEscapers (= MAPLIT), redundantFuncs (= MAPLIT), escapeOK (= CALLFUNC)
+# image/color
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b152/_pkg_.a
+lout: RGBAModel (= CALLFUNC), RGBA64Model (= CALLFUNC), NRGBAModel (= CALLFUNC), NRGBA64Model (= CALLFUNC), AlphaModel (= CALLFUNC), Alpha16Model (= CALLFUNC), GrayModel (= CALLFUNC), Gray16Model (= CALLFUNC), YCbCrModel (= CALLFUNC), NYCbCrAModel (= CALLFUNC), CMYKModel (= CALLFUNC)
+# image
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b151/_pkg_.a
+lout: ErrFormat (= CALLFUNC), Black (= CALLFUNC), White (= CALLFUNC), Transparent (= CALLFUNC), Opaque (= CALLFUNC)
+# image/color/palette
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b153/_pkg_.a
+lout: 
+# image/internal/imageutil
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b155/_pkg_.a
+lout: 
+# image/draw
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b154/_pkg_.a
+lout: 
+# image/gif
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b156/_pkg_.a
+lout: errNotEnough (= CALLFUNC), errTooMuch (= CALLFUNC), errBadPixel (= CALLFUNC)
+# os/user
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b033/_pkg_.a
+lout: 
+# image/jpeg
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b157/_pkg_.a
+lout: 
+# archive/tar
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b001/_pkg_.a
+lout: ErrHeader (= CALLFUNC), ErrWriteTooLong (= CALLFUNC), ErrFieldTooLong (= CALLFUNC), ErrWriteAfterClose (= CALLFUNC), errMissData (= CALLFUNC), errUnrefData (= CALLFUNC), errWriteHole (= CALLFUNC), basicKeys (= MAPLIT), formatNames (= MAPLIT)
+# index/suffixarray
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b159/_pkg_.a
+lout: 
+# internal/syscall/windows
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b160/_pkg_.a
+lout: 
+# internal/syscall/windows/registry
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b161/_pkg_.a
+lout: 
+# image/png
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b158/_pkg_.a
+lout: 
+# internal/syscall/windows/sysdll
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b162/_pkg_.a
+lout: IsSystemDLL (= MAPLIT)
+# testing
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b164/_pkg_.a
+lout: matchBenchmarks (= CALLFUNC), benchmarkMemory (= CALLFUNC), short (= CALLFUNC), failFast (= CALLFUNC), outputDir (= CALLFUNC), chatty (= CALLFUNC), count (= CALLFUNC), coverProfile (= CALLFUNC), matchList (= CALLFUNC), match (= CALLFUNC), memProfile (= CALLFUNC), memProfileRate (= CALLFUNC), cpuProfile (= CALLFUNC), blockProfile (= CALLFUNC), blockProfileRate (= CALLFUNC), mutexProfile (= CALLFUNC), mutexProfileFraction (= CALLFUNC), traceFile (= CALLFUNC), timeout (= CALLFUNC), cpuListStr (= CALLFUNC), parallel (= CALLFUNC), testlog (= CALLFUNC), errNilPanicOrGoexit (= CALLFUNC), errMain (= CALLFUNC)
+# internal/testenv
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b163/_pkg_.a
+lout: flaky (= CALLFUNC)
+# math/cmplx
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b169/_pkg_.a
+lout: 
+# net/internal/socktest
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b177/_pkg_.a
+lout: 
+# internal/trace
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b167/_pkg_.a
+lout: ErrTimeOrder (= CALLFUNC)
+# os/signal
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b182/_pkg_.a
+lout: 
+# go/types
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b143/_pkg_.a
+lout: indir (= CALLFUNC), unaryOpPredicates (= MAPLIT), binaryOpPredicates (= MAPLIT), gcArchSizes (= MAPLIT), stdSizes (= CALLFUNC), markComplete (= MAKESLICE), emptyInterface (= NAME), predeclaredConsts (= CALLFUNC), predeclaredConsts (= CALLFUNC), predeclaredConsts (= CALLFUNC)
+# go/internal/gccgoimporter
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b142/_pkg_.a
+lout: reserved (= new)
+# go/internal/gcimporter
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b145/_pkg_.a
+lout: statictmp_25 (= INDEX), statictmp_25 (= INDEX), statictmp_25 (= INDEX), statictmp_25 (= INDEX), statictmp_25 (= INDEX), statictmp_25 (= INDEX), statictmp_25 (= INDEX), statictmp_25 (= INDEX), statictmp_25 (= INDEX), statictmp_25 (= INDEX), statictmp_25 (= INDEX), statictmp_25 (= INDEX), statictmp_25 (= INDEX), statictmp_25 (= INDEX), statictmp_25 (= INDEX), statictmp_25 (= INDEX), statictmp_25 (= INDEX), statictmp_25 (= CALLINTER), statictmp_25 (= CALLINTER), statictmp_25 (= CALLINTER), statictmp_25 (= INDEX), statictmp_25 (= INDEX), statictmp_25 (= INDEX), statictmp_25 (= INDEX), statictmp_25 (= INDEX), statictmp_25 (= INDEX), statictmp_25 (= INDEX), statictmp_25 (= INDEX), statictmp_25 (= INDEX)
+# go/internal/srcimporter
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b146/_pkg_.a
+lout: 
+# go/importer
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b141/_pkg_.a
+lout: 
+# net
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b080/_pkg_.a
+lout: statictmp_130 (= CALLFUNC), statictmp_130 (= CALLFUNC), statictmp_130 (= CALLFUNC), statictmp_130 (= CALLFUNC), statictmp_130 (= CALLFUNC), statictmp_130 (= CALLFUNC), statictmp_130 (= CALLFUNC), statictmp_130 (= CALLFUNC), statictmp_130 (= CALLFUNC), errLameReferral (= CALLFUNC), errCannotUnmarshalDNSMessage (= CALLFUNC), errCannotMarshalDNSMessage (= CALLFUNC), errServerMisbehaving (= CALLFUNC), errInvalidDNSResponse (= CALLFUNC), errNoAnswerFromDNSServer (= CALLFUNC), errServerTemporarlyMisbehaving (= CALLFUNC), lookupOrderName (= MAPLIT), errInvalidInterface (= CALLFUNC), errInvalidInterfaceIndex (= CALLFUNC), errInvalidInterfaceName (= CALLFUNC), errNoSuchInterface (= CALLFUNC), errNoSuchMulticastInterface (= CALLFUNC), zoneCache (= MAKEMAP), zoneCache (= MAKEMAP), IPv4bcast (= CALLFUNC), IPv4allsys (= CALLFUNC), IPv4allrouter (= CALLFUNC), IPv4zero (= CALLFUNC), classAMask (= CALLFUNC), classBMask (= CALLFUNC), classCMask (= CALLFUNC), protocols (= MAPLIT), services (= MAPLIT), errNoSuitableAddress (= CALLFUNC), errMissingAddress (= CALLFUNC), errCanceled (= CALLFUNC), ErrWriteToConnected (= CALLFUNC), aLongTimeAgo (= CALLFUNC), errNoSuchHost (= CALLFUNC)
+# os/signal/internal/pty
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b183/_pkg_.a
+lout: 
+# plugin
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b184/_pkg_.a
+lout: 
+# vendor/golang_org/x/net/http/httpproxy
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b118/_pkg_.a
+lout: portMap (= MAPLIT)
+# log/syslog
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b168/_pkg_.a
+lout: 
+# net/textproto
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b117/_pkg_.a
+lout: commonHeader (= MAKEMAP)
+# vendor/golang_org/x/net/http/httpguts
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b111/_pkg_.a
+lout: badTrailer (= MAPLIT)
+# runtime/race
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b186/_pkg_.a
+lout: 
+# net/mail
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b178/_pkg_.a
+lout: ErrHeaderNotPresent (= CALLFUNC)
+# mime/multipart
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b121/_pkg_.a
+lout: ErrMessageTooLarge (= CALLFUNC), emptyParams (= MAKEMAP), quoteEscaper (= CALLFUNC)
+# testing/internal/testdeps
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b187/_pkg_.a
+lout: 
+# testing/iotest
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b188/_pkg_.a
+lout: ErrTimeout (= CALLFUNC)
+# testing/quick
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b189/_pkg_.a
+lout: defaultMaxCount (= CALLFUNC)
+# vendor/golang_org/x/net/internal/nettest
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b190/_pkg_.a
+lout: 
+# vendor/golang_org/x/text/secure
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b192/_pkg_.a
+lout: 
+# vendor/golang_org/x/text/unicode
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b193/_pkg_.a
+lout: 
+# vendor/golang_org/x/net/nettest
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b191/_pkg_.a
+lout: aLongTimeAgo (= CALLFUNC)
+# cmd/asm
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b001/_pkg_.a
+lout: 
+# cmd/internal/buildid
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b222/_pkg_.a
+lout: errBuildIDToolchain (= CALLFUNC), errBuildIDMalformed (= CALLFUNC), errBuildIDUnknown (= CALLFUNC)
+# runtime/pprof/internal/profile
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b185/_pkg_.a
+lout: countStartRE (= CALLFUNC), countRE (= CALLFUNC), heapHeaderRE (= CALLFUNC), heapSampleRE (= CALLFUNC), contentionSampleRE (= CALLFUNC), hexNumberRE (= CALLFUNC), growthHeaderRE (= CALLFUNC), fragmentationHeaderRE (= CALLFUNC), threadzStartRE (= CALLFUNC), threadStartRE (= CALLFUNC), procMapsRE (= CALLFUNC), briefMapsRE (= CALLFUNC), allocRxStr (= CALLFUNC), allocSkipRxStr (= CALLFUNC), cpuProfilerRxStr (= CALLFUNC), lockRxStr (= CALLFUNC), errUnrecognized (= CALLFUNC), errMalformed (= CALLFUNC), libRx (= CALLFUNC)
+# cmd/cgo
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b055/_pkg_.a
+lout: debugDefine (= CALLFUNC), debugGcc (= CALLFUNC), nameToC (= MAPLIT), typedef (= MAKEMAP), goIdent (= MAKEMAP), unionWithPointer (= MAKEMAP), dwarfToName (= MAPLIT), jniTypes (= MAPLIT), ptrSizeMap (= MAPLIT), intSizeMap (= MAPLIT), fset (= CALLFUNC), dynobj (= CALLFUNC), dynout (= CALLFUNC), dynpackage (= CALLFUNC), dynlinker (= CALLFUNC), godefs (= CALLFUNC), srcDir (= CALLFUNC), objDir (= CALLFUNC), importPath (= CALLFUNC), exportHeader (= CALLFUNC), gccgo (= CALLFUNC), gccgoprefix (= CALLFUNC), gccgopkgpath (= CALLFUNC), importRuntimeCgo (= CALLFUNC), importSyscall (= CALLFUNC), isBuiltin (= MAPLIT), goTypes (= MAPLIT), builtinDefs (= MAPLIT)
+# cmd/buildid
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b221/_pkg_.a
+lout: wflag (= CALLFUNC)
+# cmd/api
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b205/_pkg_.a
+lout: checkFile (= CALLFUNC), allowNew (= CALLFUNC), exceptFile (= CALLFUNC), nextFile (= CALLFUNC), verbose (= CALLFUNC), forceCtx (= CALLFUNC), internalPkg (= CALLFUNC), spaceParensRx (= CALLFUNC), fset (= CALLFUNC), parsedFileCache (= MAKEMAP), pkgCache (= MAPLIT), pkgTags (= MAPLIT)
+# cmd/compile
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b079/_pkg_.a
+lout: archInits (= MAPLIT)
+# cmd/compile/internal/test
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b240/_pkg_.a
+lout: 
+# cmd/internal/browser
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b242/_pkg_.a
+lout: 
+# cmd/cover
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b241/_pkg_.a
+lout: mode (= CALLFUNC), varVar (= CALLFUNC), output (= CALLFUNC), htmlOut (= CALLFUNC), funcOut (= CALLFUNC), htmlTemplate (= CALLFUNC), lineRe (= CALLFUNC)
+# cmd/doc
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b244/_pkg_.a
+lout: buildCtx (= NAME)
+# cmd/dist
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b243/_pkg_.a
+lout: dying (= MAKECHAN), cgoEnabled (= MAPLIT), installed (= MAKEMAP), timeLogEnabled (= !=), ssaRewriteFileSubstring (= CALLFUNC), errSyntax (= CALLFUNC), errNUL (= CALLFUNC), bgwork (= MAKECHAN), commands (= MAPLIT)
+# cmd/fix
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b245/_pkg_.a
+lout: fset (= CALLFUNC), posType (= CALLFUNC), allowedRewrites (= CALLFUNC), forceRewrites (= CALLFUNC), doDiff (= CALLFUNC)
+# cmd/go/internal/cfg
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b248/_pkg_.a
+lout: BuildContext (= CALLFUNC), BuildP (= CALLFUNC), Goarch (= DOT), Goos (= DOT), Gopath (= CALLFUNC), GOROOT (= CALLFUNC), GOBIN (= CALLFUNC), GOROOTbin (= CALLFUNC), GOROOTpkg (= CALLFUNC), GOROOTsrc (= CALLFUNC), GOROOT_FINAL (= CALLFUNC), GOARM (= CALLFUNC), GO386 (= NAME), GOMIPS (= NAME), GOMIPS64 (= NAME), OSArchSupportsCgo (= MAPLIT)
+# cmd/go/internal/str
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b249/_pkg_.a
+lout: 
+# cmd/go/internal/base
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b247/_pkg_.a
+lout: knownFlag (= MAKEMAP), Cwd (= CALLFUNC), Interrupted (= MAKECHAN), statictmp_1 (= NAME), ToolIsWindows (= ==), ToolDir (= NAME)
+# cmd/go/internal/cache
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b252/_pkg_.a
+lout: errMissing (= CALLFUNC), hashSalt (= STR2BYTES)
+# cmd/go/internal/modinfo
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b254/_pkg_.a
+lout: 
+# cmd/go/internal/dirhash
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b260/_pkg_.a
+lout: 
+# cmd/go/internal/imports
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b257/_pkg_.a
+lout: KnownOS (= MAKEMAP), KnownArch (= MAKEMAP), errSyntax (= CALLFUNC), errNUL (= CALLFUNC), ErrNoGo (= CALLFUNC)
+# cmd/go/internal/search
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b255/_pkg_.a
+lout: 
+# cmd/go/internal/par
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b265/_pkg_.a
+lout: 
+# cmd/go/internal/semver
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b268/_pkg_.a
+lout: 
+# cmd/go/internal/module
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b267/_pkg_.a
+lout: 
+# cmd/go/internal/modfetch/codehost
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b264/_pkg_.a
+lout: bashQuoter (= CALLFUNC), vcsCmds (= MAPLIT)
+# cmd/go/internal/modfile
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b266/_pkg_.a
+lout: GoVersionRE (= CALLFUNC)
+# cmd/go/internal/load
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b253/_pkg_.a
+lout: packageCache (= MAPLIT), isDirCache (= MAPLIT), goModPathCache (= MAKEMAP), cgoExclude (= MAPLIT), cgoSyscallExclude (= MAPLIT), foldPath (= MAKEMAP), cmdCache (= MAPLIT), testFileSet (= CALLFUNC), testmainTmpl (= CALLFUNC)
+# cmd/go/internal/doc
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b272/_pkg_.a
+lout: 
+# cmd/go/internal/mvs
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b270/_pkg_.a
+lout: 
+# cmd/go/internal/help
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b276/_pkg_.a
+lout: documentationTemplate (= +)
+# cmd/go/internal/cmdflag
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b282/_pkg_.a
+lout: 
+# cmd/internal/test2json
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b283/_pkg_.a
+lout: 
+# cmd/go/internal/tool
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b284/_pkg_.a
+lout: 
+# cmd/go/internal/version
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b285/_pkg_.a
+lout: 
+# cmd/go/internal/txtar
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b287/_pkg_.a
+lout: 
+# cmd/link
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build561288993/b116/_pkg_.a
+lout: 
+# cmd/nm
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b307/_pkg_.a
+lout: sortOrder (= CALLFUNC), printSize (= CALLFUNC), printType (= CALLFUNC)
+# cmd/gofmt
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b289/_pkg_.a
+lout: list (= CALLFUNC), write (= CALLFUNC), rewriteRule (= CALLFUNC), simplifyAST (= CALLFUNC), doDiff (= CALLFUNC), allErrors (= CALLFUNC), cpuprofile (= CALLFUNC), fileSet (= CALLFUNC), objectPtrNil (= CALLFUNC), scopePtrNil (= CALLFUNC), identType (= CALLFUNC), objectPtrType (= CALLFUNC), positionType (= CALLFUNC), callExprType (= CALLFUNC), scopePtrType (= CALLFUNC)
+# cmd/objdump
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b308/_pkg_.a
+lout: printCode (= CALLFUNC), symregexp (= CALLFUNC)
+# cmd/pack
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b309/_pkg_.a
+lout: stdout (= NAME)
+# cmd/go/internal/work
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b263/_pkg_.a
+lout: runtimeVersion (= CALLFUNC), errPrintedOutput (= CALLFUNC), cgoLine (= CALLFUNC), cgoTypeSigRe (= CALLFUNC), origCC (= CALLFUNC), origCXX (= CALLFUNC), cgoRe (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_172 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC), statictmp_174 (= CALLFUNC)
+# cmd/go/internal/run
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b280/_pkg_.a
+lout: 
+# cmd/vendor/github.com/google/pprof/internal/elfexec
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b314/_pkg_.a
+lout: 
+# crypto/x509
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b073/_pkg_.a
+lout: IncorrectPasswordError (= CALLFUNC), debugExecDarwinRoots (= CALLFUNC), ignoreCN (= CALLFUNC), errNotParsed (= CALLFUNC), ErrUnsupportedAlgorithm (= CALLFUNC)
+# cmd/vendor/github.com/google/pprof/third_party/d3
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b324/_pkg_.a
+lout: 
+# cmd/vendor/github.com/google/pprof/third_party/d3flamegraph
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b325/_pkg_.a
+lout: 
+# cmd/vendor/github.com/google/pprof/third_party/svgpan
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b326/_pkg_.a
+lout: 
+# cmd/vendor/github.com/google/pprof/profile
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b316/_pkg_.a
+lout: errConcatProfile (= CALLFUNC), attributeRx (= CALLFUNC), javaSampleRx (= CALLFUNC), javaLocationRx (= CALLFUNC), javaLocationFileLineRx (= CALLFUNC), javaLocationPathRx (= CALLFUNC), countStartRE (= CALLFUNC), countRE (= CALLFUNC), heapHeaderRE (= CALLFUNC), heapSampleRE (= CALLFUNC), contentionSampleRE (= CALLFUNC), hexNumberRE (= CALLFUNC), growthHeaderRE (= CALLFUNC), fragmentationHeaderRE (= CALLFUNC), threadzStartRE (= CALLFUNC), threadStartRE (= CALLFUNC), cHexRange (= +), procMapsRE (= CALLFUNC), briefMapsRE (= CALLFUNC), logInfoRE (= CALLFUNC), allocRxStr (= CALLFUNC), allocSkipRxStr (= CALLFUNC), cpuProfilerRxStr (= CALLFUNC), lockRxStr (= CALLFUNC), errUnrecognized (= CALLFUNC), errMalformed (= CALLFUNC), errNoData (= CALLFUNC), libRx (= CALLFUNC), bracketRx (= CALLFUNC)
+# cmd/vendor/github.com/google/pprof/internal/measurement
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b319/_pkg_.a
+lout: 
+# cmd/vendor/github.com/google/pprof/internal/graph
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b318/_pkg_.a
+lout: javaRegExp (= CALLFUNC), goRegExp (= CALLFUNC), cppRegExp (= CALLFUNC)
+# cmd/test2json
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b329/_pkg_.a
+lout: flagP (= CALLFUNC), flagT (= CALLFUNC)
+# cmd/vendor/golang.org/x/sys/unix
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b328/_pkg_.a
+lout: statictmp_41 (= MAKEMAP)
+# cmd/vendor/golang.org/x/crypto/ssh/terminal
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b327/_pkg_.a
+lout: 
+# cmd/vendor/github.com/ianlancetaylor/demangle
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b317/_pkg_.a
+lout: builtinTypeSuffix (= MAPLIT), builtinTypeFloat (= MAPLIT), ErrNotMangledName (= CALLFUNC), operators (= MAPLIT), builtinTypes (= MAPLIT), qualifiers (= MAPLIT), subAST (= MAPLIT), verboseAST (= MAPLIT)
+# cmd/vendor/golang.org/x/sys/windows
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b332/_pkg_.a
+lout: 
+# cmd/vendor/github.com/google/pprof/internal/proftest
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b331/_pkg_.a
+lout: 
+# cmd/vendor/golang.org/x/sys/windows/registry
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b333/_pkg_.a
+lout: 
+# cmd/vendor/golang.org/x/tools/go/analysis
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b334/_pkg_.a
+lout: 
+# cmd/vendor/golang.org/x/tools/go/types/objectpath
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b337/_pkg_.a
+lout: 
+# cmd/vendor/golang.org/x/tools/go/analysis/internal/analysisflags
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b335/_pkg_.a
+lout: vetLegacyFlags (= MAPLIT)
+# cmd/vendor/golang.org/x/tools/go/analysis/internal/facts
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b336/_pkg_.a
+lout: 
+# cmd/vendor/golang.org/x/tools/go/analysis/passes/internal/analysisutil
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b339/_pkg_.a
+lout: 
+# cmd/vendor/golang.org/x/tools/go/ast/inspector
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b342/_pkg_.a
+lout: 
+# cmd/vendor/golang.org/x/tools/go/analysis/passes/inspect
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b341/_pkg_.a
+lout: statictmp_0 (= CALLFUNC)
+# cmd/vendor/golang.org/x/tools/go/analysis/passes/assign
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b340/_pkg_.a
+lout: statictmp_2 (= NAME)
+# cmd/vendor/golang.org/x/tools/go/analysis/passes/atomic
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b343/_pkg_.a
+lout: statictmp_2 (= NAME)
+# cmd/vendor/golang.org/x/tools/go/analysis/passes/asmdecl
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b338/_pkg_.a
+lout: asmPlusBuild (= CALLFUNC), asmTEXT (= CALLFUNC), asmDATA (= CALLFUNC), asmSP (= CALLFUNC), asmUnnamedFP (= CALLFUNC), asmNamedFP (= CALLFUNC), asmOpcode (= CALLFUNC), ppc64Suff (= CALLFUNC)
+# cmd/vendor/golang.org/x/tools/go/analysis/passes/bools
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b344/_pkg_.a
+lout: statictmp_2 (= NAME)
+# cmd/vendor/golang.org/x/tools/go/analysis/passes/buildtag
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b345/_pkg_.a
+lout: 
+# cmd/vendor/golang.org/x/tools/go/analysis/passes/cgocall
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b346/_pkg_.a
+lout: 
+# cmd/vendor/golang.org/x/tools/go/analysis/passes/composite
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b347/_pkg_.a
+lout: unkeyedLiteral (= MAPLIT), statictmp_2 (= NAME)
+# crypto/tls
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b072/_pkg_.a
+lout: alertText (= MAPLIT), errClosed (= CALLFUNC), errShutdown (= CALLFUNC), errEarlyCloseWrite (= CALLFUNC), tls11SignatureSchemesECDSA (= SLICE), tls11SignatureSchemesRSA (= SLICE), errClientKeyExchange (= CALLFUNC), errServerKeyExchange (= CALLFUNC)
+# cmd/vendor/golang.org/x/tools/go/analysis/passes/copylock
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b348/_pkg_.a
+lout: statictmp_12 (= NAME)
+# cmd/vendor/golang.org/x/tools/go/cfg
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b350/_pkg_.a
+lout: 
+# net/http/httptrace
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b123/_pkg_.a
+lout: 
+# net/smtp
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b181/_pkg_.a
+lout: 
+# cmd/vendor/golang.org/x/tools/go/analysis/passes/httpresponse
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b353/_pkg_.a
+lout: statictmp_2 (= NAME)
+# cmd/vendor/golang.org/x/tools/go/analysis/passes/nilfunc
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b356/_pkg_.a
+lout: statictmp_2 (= NAME)
+# cmd/vendor/golang.org/x/tools/go/analysis/passes/loopclosure
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b354/_pkg_.a
+lout: statictmp_3 (= NAME)
+# cmd/vendor/golang.org/x/tools/go/analysis/passes/shift
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b359/_pkg_.a
+lout: archSizes (= CALLFUNC), uintBitSize (= *), uintptrBitSize (= *), statictmp_5 (= NAME)
+# cmd/vendor/golang.org/x/tools/go/analysis/passes/pkgfact
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b357/_pkg_.a
+lout: statictmp_1 (= new), statictmp_0 (= CALLFUNC)
+# cmd/vendor/golang.org/x/tools/go/analysis/passes/structtag
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b361/_pkg_.a
+lout: errTagSpace (= CALLFUNC), errTagKeySyntax (= CALLFUNC), errTagSyntax (= CALLFUNC), errTagValueSyntax (= CALLFUNC), checkTagSpaces (= MAPLIT), errTagValueSpace (= CALLFUNC), statictmp_3 (= NAME)
+# cmd/vendor/golang.org/x/tools/go/analysis/passes/stdmethods
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b360/_pkg_.a
+lout: canonicalMethods (= MAPLIT), statictmp_3 (= NAME)
+# cmd/vendor/golang.org/x/tools/go/analysis/passes/tests
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b362/_pkg_.a
+lout: 
+# cmd/vendor/golang.org/x/tools/go/analysis/passes/unreachable
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b364/_pkg_.a
+lout: statictmp_3 (= NAME)
+# cmd/vendor/golang.org/x/tools/go/ast/astutil
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b352/_pkg_.a
+lout: abort (= new)
+# cmd/vendor/golang.org/x/tools/go/analysis/passes/unsafeptr
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b365/_pkg_.a
+lout: statictmp_2 (= NAME)
+# cmd/vendor/golang.org/x/tools/go/analysis/passes/unusedresult
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b366/_pkg_.a
+lout: sigNoArgsStringResult (= CALLFUNC), statictmp_2 (= NAME)
+# cmd/vendor/golang.org/x/tools/go/types/typeutil
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b351/_pkg_.a
+lout: 
+# cmd/vendor/golang.org/x/tools/go/analysis/unitchecker
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b367/_pkg_.a
+lout: 
+# cmd/vendor/golang.org/x/tools/go/analysis/passes/unmarshal
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b363/_pkg_.a
+lout: statictmp_2 (= NAME)
+# cmd/vendor/golang.org/x/tools/go/analysis/passes/ctrlflow
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b349/_pkg_.a
+lout: panicBuiltin (= DOTTYPE), statictmp_2 (= CALLFUNC), statictmp_3 (= new), statictmp_4 (= NAME)
+# cmd/vendor/golang.org/x/tools/go/analysis/passes/lostcancel
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b355/_pkg_.a
+lout: statictmp_4 (= NAME), statictmp_4 (= NAME)
+# cmd/vendor/golang.org/x/tools/go/analysis/passes/printf
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b358/_pkg_.a
+lout: isPrint (= MAPLIT), errorType (= DOTTYPE), printFormatRE (= CALLFUNC), statictmp_6 (= NAME), statictmp_7 (= new), archSizes (= CALLFUNC)
+# cmd/vet
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b368/_pkg_.a
+lout: 
+# net/http
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b110/_pkg_.a
+lout: ErrUseLastResponse (= CALLFUNC), cookieNameSanitizer (= CALLFUNC), errSeeker (= CALLFUNC), errNoOverlap (= CALLFUNC), unixEpochTime (= CALLFUNC), http2errReadEmpty (= CALLFUNC), http2errCodeName (= MAPLIT), http2errMixPseudoHeaderTypes (= CALLFUNC), http2errPseudoAfterRegular (= CALLFUNC), http2padZeros (= MAKESLICE), http2frameName (= MAPLIT), http2flagName (= MAPLIT), http2frameParsers (= MAPLIT), http2ErrFrameTooLarge (= CALLFUNC), http2errStreamID (= CALLFUNC), http2errDepStreamID (= CALLFUNC), http2errPadLength (= CALLFUNC), http2errPadBytes (= CALLFUNC), http2errCanceled (= NAME), http2DebugGoroutines (= ==), http2commonLowerHeader (= MAPLIT), http2commonCanonHeader (= MAPLIT), http2settingName (= MAPLIT), http2errInvalidHeaderFieldName (= CALLFUNC), http2errInvalidHeaderFieldValue (= CALLFUNC), http2httpCodeStringCommon (= MAPLIT), http2errClosedPipeWrite (= CALLFUNC), http2errClientDisconnected (= CALLFUNC), http2errClosedBody (= CALLFUNC), http2errHandlerComplete (= CALLFUNC), http2errStreamClosed (= CALLFUNC), http2settingsTimerMsg (= new), http2idleTimerMsg (= new), http2shutdownTimerMsg (= new), http2gracefulShutdownMsg (= new), http2errPrefaceTimeout (= CALLFUNC), http2errHandlerPanicked (= CALLFUNC), http2ErrRecursivePush (= CALLFUNC), http2ErrPushLimitReached (= CALLFUNC), http2errTransportVersion (= CALLFUNC), http2errClientConnClosed (= CALLFUNC), http2errClientConnUnusable (= CALLFUNC), http2errClientConnGotGoAway (= CALLFUNC), http2errRequestCanceled (= CALLFUNC), http2errStopReqBodyWrite (= CALLFUNC), http2errStopReqBodyWriteAndCancel (= CALLFUNC), http2errClosedResponseBody (= CALLFUNC), http2errInvalidTrailers (= CALLFUNC), http2errResponseHeaderListSize (= CALLFUNC), http2errRequestHeaderListSize (= CALLFUNC), http2errPseudoTrailers (= CALLFUNC), http2noBody (= CALLFUNC), headerNewlineToSpace (= CALLFUNC), aLongTimeAgo (= CALLFUNC), ErrMissingFile (= CALLFUNC), reqWriteExcludeHeader (= MAPLIT), ErrNoCookie (= CALLFUNC), statictmp_246 (= MAKEMAP), statictmp_246 (= MAKEMAP), errMissingHost (= CALLFUNC), respExcludeHeader (= MAPLIT), ErrNoLocation (= CALLFUNC), ErrBodyNotAllowed (= CALLFUNC), ErrHijacked (= CALLFUNC), ErrContentLength (= CALLFUNC), ErrWriteAfterFlush (= CALLFUNC), errTooLarge (= CALLFUNC), ErrAbortHandler (= CALLFUNC), htmlReplacer (= CALLFUNC), stateName (= MAPLIT), ErrServerClosed (= CALLFUNC), ErrHandlerTimeout (= CALLFUNC), uniqNameNext (= MAKEMAP), socksaLongTimeAgo (= CALLFUNC), statusText (= MAPLIT), ErrLineTooLong (= NAME), ErrBodyReadAfterClose (= CALLFUNC), errTrailerEOF (= CALLFUNC), nopCloserType (= CALLFUNC), statictmp_303 (= CALLPART), connsPerHostClosedCh (= MAKECHAN), ErrSkipAltProtocol (= CALLFUNC), errKeepAlivesDisabled (= CALLFUNC), errConnBroken (= CALLFUNC), errWantIdle (= CALLFUNC), errTooManyIdle (= CALLFUNC), errTooManyIdleHost (= CALLFUNC), errCloseIdleConns (= CALLFUNC), errReadLoopExiting (= CALLFUNC), errIdleConnTimeout (= CALLFUNC), errNotCachingH2Conn (= CALLFUNC), errServerClosedIdle (= CALLFUNC), errCallerOwnsConn (= CALLFUNC), errRequestCanceled (= CALLFUNC), errRequestCanceledConn (= CALLFUNC), portMap (= MAPLIT), errReadOnClosedResBody (= CALLFUNC)
+# expvar
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b108/_pkg_.a
+lout: 
+# net/http/cookiejar
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b171/_pkg_.a
+lout: errIllegalDomain (= CALLFUNC), errMalformedDomain (= CALLFUNC), errNoHostname (= CALLFUNC), endOfTime (= CALLFUNC)
+# net/http/httptest
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b173/_pkg_.a
+lout: serve (= CALLFUNC)
+# net/http/pprof
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b175/_pkg_.a
+lout: profileDescriptions (= MAPLIT), indexTmpl (= CALLFUNC)
+# net/http/cgi
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b170/_pkg_.a
+lout: trailingPort (= CALLFUNC), osDefaultInheritEnv (= MAPLIT)
+# cmd/go/internal/web
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b262/_pkg_.a
+lout: httpClient (= NAME)
+# net/http/fcgi
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b172/_pkg_.a
+lout: errCloseConn (= CALLFUNC), emptyBody (= CALLFUNC), ErrRequestAborted (= CALLFUNC), ErrConnClosed (= CALLFUNC)
+# net/http/httputil
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b174/_pkg_.a
+lout: reqWriteExcludeHeaderDump (= MAPLIT), errNoBody (= CALLFUNC), emptyBody (= CALLFUNC), ErrLineTooLong (= NAME), errClosed (= CALLFUNC)
+# cmd/vendor/github.com/google/pprof/internal/plugin
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b315/_pkg_.a
+lout: 
+# net/rpc
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b179/_pkg_.a
+lout: ErrShutdown (= CALLFUNC), debug (= CALLFUNC), typeOfError (= CALLINTER), DefaultServer (= CALLFUNC)
+# cmd/go/internal/web2
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b269/_pkg_.a
+lout: httpDo (= CALLPART)
+# net/rpc/jsonrpc
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b180/_pkg_.a
+lout: errMissingParams (= CALLFUNC)
+# cmd/go/internal/webtest
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b288/_pkg_.a
+lout: mode (= CALLFUNC)
+# cmd/vendor/github.com/google/pprof/internal/symbolz
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b322/_pkg_.a
+lout: symbolzRE (= CALLFUNC)
+# cmd/go/internal/get
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b261/_pkg_.a
+lout: statictmp_6 (= +), getD (= CALLMETH), getF (= CALLMETH), getT (= CALLMETH), getU (= CALLMETH), getFix (= CALLMETH), downloadCache (= MAPLIT), downloadRootCache (= MAPLIT), defaultSecureScheme (= MAPLIT), scpSyntaxRe (= CALLFUNC), statictmp_34 (= +), httpPrefixRE (= CALLFUNC), errUnknownSite (= CALLFUNC), fetchCache (= MAPLIT)
+# cmd/vendor/github.com/google/pprof/internal/binutils
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b313/_pkg_.a
+lout: nmOutputRE (= CALLFUNC), objdumpAsmOutputRE (= CALLFUNC), objdumpOutputFileLine (= CALLFUNC), objdumpOutputFunction (= CALLFUNC)
+# cmd/vendor/github.com/google/pprof/internal/transport
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b323/_pkg_.a
+lout: 
+# cmd/vendor/github.com/google/pprof/internal/symbolizer
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b321/_pkg_.a
+lout: 
+# cmd/vendor/github.com/google/pprof/internal/report
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b320/_pkg_.a
+lout: 
+# cmd/go/internal/modfetch
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b259/_pkg_.a
+lout: errNotCached (= CALLFUNC), proxyURL (= CALLFUNC), pseudoVersionRE (= CALLFUNC)
+# cmd/go/internal/modconv
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b258/_pkg_.a
+lout: Converters (= MAPLIT)
+# cmd/trace
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b330/_pkg_.a
+lout: logDiv (= CALLFUNC), templUserRegionTypes (= CALLFUNC), templUserTaskTypes (= CALLFUNC), templUserTaskType (= CALLFUNC), templUserRegionType (= CALLFUNC), templGoroutines (= CALLFUNC), templGoroutine (= CALLFUNC), httpFlag (= CALLFUNC), pprofFlag (= CALLFUNC), debugFlag (= CALLFUNC), templMain (= CALLFUNC), utilFlagNames (= MAPLIT)
+# cmd/go/internal/modload
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b256/_pkg_.a
+lout: nil n.Left on infoStart, _ = hex.DecodeString("3077af0c9274080241e1c107e6d618e6"), nil n.Left on infoEnd, _ = hex.DecodeString("f932433186182072008242104116d8f2"), MustUseModules (= CALLFUNC), gitOriginRE (= CALLFUNC), importCommentRE (= CALLFUNC), anyTags (= MAPLIT), errMissing (= CALLFUNC), ErrRequire (= CALLFUNC)
+# cmd/vendor/github.com/google/pprof/internal/driver
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b312/_pkg_.a
+lout: viewBox (= CALLFUNC), graphID (= CALLFUNC), svgClose (= CALLFUNC), pprofCommands (= MAPLIT), pprofVariables (= MAPLIT), tagFilterRangeRx (= CALLFUNC), tailDigitsRE (= CALLFUNC), pprofShortcuts (= MAPLIT)
+# cmd/go/internal/fix
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b273/_pkg_.a
+lout: 
+# cmd/go/internal/envcmd
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b251/_pkg_.a
+lout: envJson (= CALLMETH)
+# cmd/go/internal/clean
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b271/_pkg_.a
+lout: cleaned (= MAPLIT), cleanDir (= MAPLIT), cleanFile (= MAPLIT), cleanExt (= MAPLIT)
+# cmd/go/internal/fmtcmd
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b274/_pkg_.a
+lout: 
+# cmd/go/internal/bug
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b250/_pkg_.a
+lout: 
+# cmd/go/internal/generate
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b275/_pkg_.a
+lout: stop (= CALLFUNC)
+# cmd/go/internal/list
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b277/_pkg_.a
+lout: listCompiled (= CALLMETH), listDeps (= CALLMETH), listE (= CALLMETH), listExport (= CALLMETH), listFmt (= CALLMETH), listFind (= CALLMETH), listJson (= CALLMETH), listM (= CALLMETH), listU (= CALLMETH), listTest (= CALLMETH), listVersions (= CALLMETH)
+# cmd/go/internal/modcmd
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b278/_pkg_.a
+lout: downloadJSON (= CALLMETH), editFmt (= CALLMETH), editGo (= CALLMETH), editJSON (= CALLMETH), editPrint (= CALLMETH), editModule (= CALLMETH), copiedMetadata (= MAKEMAP), whyM (= CALLMETH), whyVendor (= CALLMETH)
+# cmd/go/internal/modget
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b279/_pkg_.a
+lout: statictmp_1 (= +), getD (= CALLMETH), getF (= CALLMETH), getFix (= CALLMETH), getM (= CALLMETH), getT (= CALLMETH)
+# cmd/go/internal/vet
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b286/_pkg_.a
+lout: 
+# cmd/vendor/github.com/google/pprof/driver
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b311/_pkg_.a
+lout: 
+# cmd/pprof
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b310/_pkg_.a
+lout: 
+# cmd/go/internal/test
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b281/_pkg_.a
+lout: errBadTestInputs (= CALLFUNC), errFileTooNew (= CALLFUNC), statictmp_23 (= new), statictmp_31 (= new), statictmp_40 (= new)
+# cmd/go
+----------------------------------------------------
+/var/folders/77/7_nmc1957dv3rqv5l1wr5shh0000gn/T/go-build051106755/b246/_pkg_.a
+lout: 
+---
+Installed Go for darwin/amd64 in /Users/whit537/workbench/go/src/github.com/golang/go
+Installed commands in /Users/whit537/workbench/go/src/github.com/golang/go/bin
